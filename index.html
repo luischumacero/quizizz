@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulador Quizizz - Director de Unidad Educativa | Bolivia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Canvas para animación de confeti -->
+  <canvas id="confettiCanvas"></canvas>
+
+  <div id="appContainer">
+    <!-- Header General -->
+    <header class="quiz-header">
+      <div class="brand">
+        <div class="logo-icon">⚡</div>
+        <div class="brand-text">
+          <h1>EDUQUIZ <span>BOLIVIA</span></h1>
+          <p class="subtitle">Banco Oficial: 4,000 Preguntas | Director de Unidad Educativa</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="soundToggleBtn" class="pill-btn sound-btn" title="Activar/Silenciar sonido">
+          <span id="soundIcon">🔊</span> Sonido
+        </button>
+        <button id="fullscreenBtn" class="pill-btn icon-only" title="Pantalla completa">⛶</button>
+      </div>
+    </header>
+
+    <!-- ==================== PANTALLA 1: CONFIGURACIÓN Y SELECCIÓN DE TEMAS ==================== -->
+    <main id="setupScreen" class="screen active">
+      <div class="hero-banner">
+        <div class="hero-badge">🇧🇴 EXAMEN DE COMPETENCIA Y MÉRITOS</div>
+        <h2>Entrénate al estilo Quizizz con la normativa boliviana</h2>
+        <p>Selecciona 1, 5, 6 o los 20 temas de estudio. Personaliza tu rango de preguntas, estudia sin límite de tiempo y repasa las explicaciones de cada artículo.</p>
+      </div>
+
+      <!-- Barra de Filtros y Búsqueda -->
+      <section class="selection-controls-card">
+        <div class="search-filter-row">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="topicSearchInput" placeholder="Buscar por tema, ley, decreto o palabra clave...">
+          </div>
+          <div class="category-tabs">
+            <button class="cat-tab active" data-cat="all">Todos (20)</button>
+            <button class="cat-tab" data-cat="Normativa General">Normativa General (8)</button>
+            <button class="cat-tab" data-cat="Normativa Específica">Normativa Específica (8)</button>
+            <button class="cat-tab" data-cat="Técnico Pedagógico">Técnico Pedagógico (4)</button>
+          </div>
+        </div>
+
+        <div class="bulk-actions-row">
+          <div class="select-counters">
+            <span class="badge-counter"><strong id="selectedTopicsCount">0</strong> temas seleccionados</span>
+            <span class="badge-counter secondary"><strong id="availableQuestionsPool">0</strong> preguntas disponibles</span>
+          </div>
+          <div class="bulk-buttons">
+            <button id="selectAllBtn" class="action-btn-sm">✓ Seleccionar Todos</button>
+            <button id="deselectAllBtn" class="action-btn-sm outline">✕ Deseleccionar Todos</button>
+          </div>
+        </div>
+
+        <!-- Rejilla de Tarjetas de Temas -->
+        <div id="topicsGrid" class="topics-grid">
+          <!-- Generado dinámicamente con JS -->
+        </div>
+      </section>
+
+      <!-- Panel de Opciones de Juego / Quiz -->
+      <section class="quiz-config-card">
+        <h3 class="config-title">⚙️ Configura tu sesión de estudio</h3>
+        
+        <div class="config-grid">
+          <!-- Selector de Rango de Preguntas -->
+          <div class="config-item">
+            <label class="config-label">
+              <span>🎯 Cantidad de Preguntas:</span>
+              <span id="rangeDisplayVal" class="label-highlight">50 preguntas</span>
+            </label>
+            <div class="range-presets">
+              <button class="preset-btn" data-count="10">10</button>
+              <button class="preset-btn" data-count="20">20</button>
+              <button class="preset-btn active" data-count="50">50</button>
+              <button class="preset-btn" data-count="100">100</button>
+              <button class="preset-btn" data-count="200">200</button>
+              <button class="preset-btn" data-count="all">Todas</button>
+            </div>
+            <input type="range" id="customRangeSlider" min="5" max="200" step="5" value="50" class="custom-slider">
+          </div>
+
+          <!-- Modo de Juego -->
+          <div class="config-item">
+            <label class="config-label">📖 Modo de Aprendizaje:</label>
+            <div class="mode-toggles">
+              <label class="mode-card selected">
+                <input type="radio" name="quizMode" value="study" checked>
+                <div class="mode-info">
+                  <span class="mode-icon">💡</span>
+                  <strong>Modo Estudio</strong>
+                  <small>Respuesta y explicación legal inmediata en cada pregunta</small>
+                </div>
+              </label>
+              <label class="mode-card">
+                <input type="radio" name="quizMode" value="exam">
+                <div class="mode-info">
+                  <span class="mode-icon">📝</span>
+                  <strong>Modo Simulacro</strong>
+                  <small>Evaluación continua sin interrupciones, resultados al final</small>
+                </div>
+              </label>
+            </div>
+          </div>
+
+          <!-- Opciones Adicionales -->
+          <div class="config-item">
+            <label class="config-label">🔀 Personalización:</label>
+            <div class="checkbox-group">
+              <label class="checkbox-label">
+                <input type="checkbox" id="shuffleQuestionsCheck" checked>
+                <span>Aleatorizar orden de preguntas</span>
+              </label>
+              <label class="checkbox-label">
+                <input type="checkbox" id="shuffleOptionsCheck" checked>
+                <span>Aleatorizar opciones (A - E)</span>
+              </label>
+              <label class="checkbox-label">
+                <input type="checkbox" id="enableStopwatchCheck" checked>
+                <span>Cronómetro de estudio (sin límite de tiempo)</span>
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Botón de Inicio Flotante/Destacado -->
+        <div class="start-action-row">
+          <button id="startQuizBtn" class="big-pulse-btn">
+            <span class="btn-icon">🚀</span>
+            <span class="btn-text">¡INICIAR QUIZ!</span>
+            <span id="startBtnSub" class="btn-subtext">(50 preguntas seleccionadas)</span>
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <!-- ==================== PANTALLA 2: JUEGO / PREGUNTAS (ESTILO QUIZIZZ) ==================== -->
+    <main id="quizScreen" class="screen">
+      <!-- Barra Superior de Progreso y Racha -->
+      <div class="game-hud">
+        <div class="hud-item hud-progress">
+          <div class="hud-text">
+            <span>Pregunta <strong id="currentQuestionNum">1</strong> de <strong id="totalQuestionsInGame">50</strong></span>
+            <span id="progressPercent">2%</span>
+          </div>
+          <div class="progress-bar-bg">
+            <div id="progressBarFill" class="progress-bar-fill" style="width: 2%;"></div>
+          </div>
+        </div>
+
+        <div class="hud-badges">
+          <div id="streakBadge" class="hud-pill streak-pill">
+            <span class="streak-icon">🔥</span>
+            <span>Racha: <strong id="streakCount">0</strong></span>
+          </div>
+          <div class="hud-pill score-pill">
+            <span class="score-icon">⭐</span>
+            <span>Puntaje: <strong id="liveScore">0</strong></span>
+          </div>
+          <div id="stopwatchHud" class="hud-pill time-pill">
+            <span>⏱️ <span id="stopwatchDisplay">00:00</span></span>
+          </div>
+          <button id="exitQuizBtn" class="hud-pill exit-pill" title="Volver al menú">✕ Salir</button>
+        </div>
+      </div>
+
+      <!-- Tarjeta Principal de la Pregunta -->
+      <section class="question-stage">
+        <div class="question-card">
+          <!-- Título Oficial del Tema en la Pregunta -->
+          <div class="question-topic-badge" id="questionTopicBadge">
+            <span id="qCategoryBadge" class="topic-cat-tag">Normativa General</span>
+            <span id="qTopicTitle" class="topic-full-title">4.1. Constitución Política del Estado</span>
+          </div>
+
+          <!-- Texto de la Pregunta -->
+          <div class="question-body">
+            <h2 id="questionText">Cargando pregunta...</h2>
+          </div>
+        </div>
+
+        <!-- Rejilla de 5 Opciones Estilo Quizizz (A, B, C, D, E) -->
+        <div id="optionsContainer" class="options-quizizz-grid">
+          <!-- Se generan dinámicamente con clases de colores específicos: opt-a, opt-b, opt-c, opt-d, opt-e -->
+        </div>
+
+        <!-- Panel de Feedback Inmediato (Modo Estudio) -->
+        <div id="studyFeedbackPanel" class="feedback-panel hidden">
+          <div class="feedback-header">
+            <div class="feedback-status">
+              <span id="feedbackIcon" class="fb-icon">✓</span>
+              <div class="fb-text">
+                <h4 id="feedbackTitle">¡Correcto!</h4>
+                <p id="feedbackSubtitle">Excelente respuesta</p>
+              </div>
+            </div>
+            <button id="nextQuestionBtn" class="next-btn-pulse">
+              <span>Siguiente Pregunta</span>
+              <span class="arrow-icon">➔</span>
+            </button>
+          </div>
+          <div class="feedback-explanation">
+            <strong>📖 Fundamentación / Justificación Legal:</strong>
+            <p id="feedbackExplanationText">Explicación del artículo de la norma...</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ==================== PANTALLA 3: RESULTADOS Y REVISIÓN DETALLADA ==================== -->
+    <main id="resultScreen" class="screen">
+      <div class="result-summary-card">
+        <div class="result-trophy-box">
+          <div id="resultEmoji" class="trophy-emoji">🏆</div>
+          <h2 id="resultRankTitle">¡Excelente Desempeño!</h2>
+          <p id="resultRankSubtitle">Has demostrado un dominio sólido de la normativa escolar.</p>
+        </div>
+
+        <div class="stats-ribbon">
+          <div class="stat-card">
+            <span class="stat-value" id="finalPercent">85%</span>
+            <span class="stat-label">Precisión</span>
+          </div>
+          <div class="stat-card correct">
+            <span class="stat-value" id="finalCorrectCount">42</span>
+            <span class="stat-label">Correctas</span>
+          </div>
+          <div class="stat-card incorrect">
+            <span class="stat-value" id="finalIncorrectCount">8</span>
+            <span class="stat-label">Incorrectas</span>
+          </div>
+          <div class="stat-card streak">
+            <span class="stat-value" id="finalMaxStreak">7 🔥</span>
+            <span class="stat-label">Mejor Racha</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-value" id="finalTime">14:20</span>
+            <span class="stat-label">Tiempo Total</span>
+          </div>
+        </div>
+
+        <div class="result-actions">
+          <button id="retryIncorrectBtn" class="pill-btn retry-btn">
+            <span>🔄 Repasar Solo las Incorrectas (<span id="missedCountBtn">8</span>)</span>
+          </button>
+          <button id="playAgainBtn" class="pill-btn primary">
+            <span>🔁 Reiniciar Este Mismo Quiz</span>
+          </button>
+          <button id="backToHomeBtn" class="pill-btn outline">
+            <span>🏠 Elegir Otros Temas</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Sección de Revisión de Preguntas -->
+      <section class="review-section">
+        <div class="review-header">
+          <h3>📋 Revisión Ítem por Ítem</h3>
+          <div class="review-filters">
+            <button class="rev-filter-btn active" data-filter="all">Todas (<span id="revAllCount">50</span>)</button>
+            <button class="rev-filter-btn" data-filter="wrong">Incorrectas (<span id="revWrongCount">8</span>)</button>
+            <button class="rev-filter-btn" data-filter="correct">Correctas (<span id="revRightCount">42</span>)</button>
+          </div>
+        </div>
+
+        <div id="reviewQuestionsList" class="review-list">
+          <!-- Lista generada con cada pregunta, tu respuesta, la correcta y la justificación -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="quiz-footer">
+      <p>Simulador y Banco Oficial de Preguntas para Director de Unidad Educativa | Estado Plurinacional de Bolivia</p>
+      <p class="footer-sub">Basado en la Constitución Política del Estado, Ley 070, Ley 045, Ley 348, Ley 548, Ley 223, Ley 1178, Ley 004, DS 4688, RS 212414, RMs 864, 069, 0020, 0190, 800, 001 y Marcos Técnico-Pedagógicos.</p>
+    </footer>
+  </div>
+
+  <!-- Carga del banco empaquetado (garantiza funcionamiento sin CORS ni servidor) -->
+  <script src="questions_data.js"></script>
+  <!-- Lógica y motor interactivo del Quizizz -->
+  <script src="app.js"></script>
+</body>
+</html>
+
