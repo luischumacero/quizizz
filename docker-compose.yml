@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  quiz-bolivia:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: quiz-director-bolivia
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+

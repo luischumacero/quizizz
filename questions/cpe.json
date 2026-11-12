@@ -1,0 +1,3609 @@
+{
+  "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+  "topic_id": "cpe",
+  "topic_code": "4.1",
+  "category": "Normativa General",
+  "total_questions": 200,
+  "questions": [
+    {
+      "id": "constitucion-001",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 1 de la CPE, Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y:",
+      "options": {
+        "a": "Con autonomías",
+        "b": "Federal",
+        "c": "Monárquico",
+        "d": "Confederal",
+        "e": "Presidencialista absoluto"
+      },
+      "answer": "a",
+      "explanation": "El art. 1 de la CPE establece que Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, con autonomías."
+    },
+    {
+      "id": "constitucion-002",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 2 de la CPE reconoce la existencia precolonial de las naciones y pueblos indígena originario campesinos y garantiza su libre determinación en el marco de la:",
+      "options": {
+        "a": "Unidad del Estado",
+        "b": "Independencia territorial",
+        "c": "Soberanía exclusiva",
+        "d": "Secesión jurídica",
+        "e": "Autarquía económica"
+      },
+      "answer": "a",
+      "explanation": "Garantiza su derecho a la libre determinación en el marco de la unidad del Estado."
+    },
+    {
+      "id": "constitucion-003",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 5 de la CPE, son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos. ¿Cuántos idiomas indígenas se reconocen expresamente?",
+      "options": {
+        "a": "36 idiomas",
+        "b": "30 idiomas",
+        "c": "25 idiomas",
+        "d": "12 idiomas",
+        "e": "40 idiomas"
+      },
+      "answer": "a",
+      "explanation": "La CPE reconoce expresamente 36 idiomas de las naciones y pueblos indígena originario campesinos más el castellano."
+    },
+    {
+      "id": "constitucion-004",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "De acuerdo al art. 6 de la CPE, Sucre es la:",
+      "options": {
+        "a": "Capital de Bolivia",
+        "b": "Sede de Gobierno",
+        "c": "Capital económica",
+        "d": "Sede del Órgano Electoral",
+        "e": "Capital histórica sin rango"
+      },
+      "answer": "a",
+      "explanation": "El art. 6, parágrafo I establece: 'Sucre es la Capital de Bolivia'."
+    },
+    {
+      "id": "constitucion-005",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 8 de la CPE, ¿cuál de los siguientes es un principio ético-moral de la sociedad plural asumido y promovido por el Estado?",
+      "options": {
+        "a": "Ama qhilla, ama llulla, ama suwa",
+        "b": "Cogito ergo sum",
+        "c": "Pacta sunt servanda",
+        "d": "Divide et impera",
+        "e": "In dubio pro reo"
+      },
+      "answer": "a",
+      "explanation": "El art. 8 asume y promueve: ama qhilla, ama llulla, ama suwa (no seas flojo, no seas mentiroso ni seas ladrón)."
+    },
+    {
+      "id": "constitucion-006",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El 'Vivir Bien' (Suma Qamaña, Ñandereko, Teko Kavi) está consagrado en la CPE en el:",
+      "options": {
+        "a": "Artículo 8, parágrafo I y II",
+        "b": "Artículo 1",
+        "c": "Artículo 250",
+        "d": "Artículo 410",
+        "e": "Artículo 15"
+      },
+      "answer": "a",
+      "explanation": "El art. 8 sustenta los principios y valores de vida del Vivir Bien."
+    },
+    {
+      "id": "constitucion-007",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 9 de la CPE, son fines y funciones esenciales del Estado, EXCEPTO:",
+      "options": {
+        "a": "Promover la concentración de la riqueza en monopolios privados",
+        "b": "Constituir una sociedad justa y armoniosa cimentada en la descolonización",
+        "c": "Garantizar el bienestar, desarrollo, seguridad y protección de las personas",
+        "d": "Reafirmar y consolidar la unidad del país",
+        "e": "Garantizar el cumplimiento de los principios, valores, derechos y deberes"
+      },
+      "answer": "a",
+      "explanation": "La concentración monopolística está expresamente prohibida por la CPE."
+    },
+    {
+      "id": "constitucion-008",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Conforme al art. 11 de la CPE, la República de Bolivia adopta para su gobierno la forma democrática participativa, representativa y:",
+      "options": {
+        "a": "Comunitaria",
+        "b": "Corporativa",
+        "c": "Directa exclusiva",
+        "d": "Parlamentaria",
+        "e": "Federal"
+      },
+      "answer": "a",
+      "explanation": "La democracia boliviana se ejerce de forma directa y participativa, representativa y comunitaria."
+    },
+    {
+      "id": "constitucion-009",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 13 de la CPE establece que los derechos reconocidos por esta Constitución son inviolables, universales, interdependientes, indivisibles y:",
+      "options": {
+        "a": "Progresivos",
+        "b": "Renunciables",
+        "c": "Revocables unilateralmente",
+        "d": "Prescriptibles",
+        "e": "Exclusivos del poder público"
+      },
+      "answer": "a",
+      "explanation": "El art. 13.I determina que los derechos son progresivos y no admiten regresividad."
+    },
+    {
+      "id": "constitucion-010",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "De acuerdo al art. 14 de la CPE, el Estado prohíbe y sanciona toda forma de discriminación fundada en razón de:",
+      "options": {
+        "a": "Sexo, color, edad, orientación sexual, identidad de género, origen, cultura, nacionalidad y otros",
+        "b": "Solo por motivos políticos",
+        "c": "Solo por motivos religiosos",
+        "d": "Solo por condición económica",
+        "e": "Únicamente por idioma y vestimenta"
+      },
+      "answer": "a",
+      "explanation": "El art. 14.II prohíbe de manera amplia y categórica toda forma de discriminación."
+    },
+    {
+      "id": "constitucion-011",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El derecho a la vida y a la integridad física, psicológica y sexual está garantizado en la CPE en el:",
+      "options": {
+        "a": "Artículo 15",
+        "b": "Artículo 3",
+        "c": "Artículo 108",
+        "d": "Artículo 145",
+        "e": "Artículo 300"
+      },
+      "answer": "a",
+      "explanation": "El art. 15.I consagra que toda persona tiene derecho a la vida y a la integridad física, psicológica y sexual. No existe pena de muerte."
+    },
+    {
+      "id": "constitucion-012",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 15, parágrafo II de la CPE, todas las personas, en particular las mujeres, tienen derecho a:",
+      "options": {
+        "a": "No sufrir violencia física, sexual o psicológica, tanto en la familia como en la sociedad",
+        "b": "Trabajo obligatorio no remunerado",
+        "c": "Renunciar a sus derechos en casos de matrimonio",
+        "d": "Subordinación tutelar estatal",
+        "e": "Exención tributaria obligatoria"
+      },
+      "answer": "a",
+      "explanation": "El art. 15.II protege a las mujeres contra cualquier tipo de violencia."
+    },
+    {
+      "id": "constitucion-013",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El derecho al agua y a la alimentación es reconocido por la CPE como un derecho:",
+      "options": {
+        "a": "Fundamentalísimo (art. 16)",
+        "b": "Accesorio",
+        "c": "Exclusivo de zonas rurales",
+        "d": "Sujeto a privatización",
+        "e": "Comercializable libremente"
+      },
+      "answer": "a",
+      "explanation": "El art. 16 consagra que toda persona tiene derecho al agua y a la alimentación."
+    },
+    {
+      "id": "constitucion-014",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 17 de la CPE, toda persona tiene derecho a recibir educación en todos los niveles de manera:",
+      "options": {
+        "a": "Universal, productiva, gratuita, integral e intercultural, sin discriminación",
+        "b": "Privatizada y con aranceles regulados",
+        "c": "Solo en idioma castellano",
+        "d": "Exclusivamente técnica",
+        "e": "Optativa y arancelada en el nivel secundario"
+      },
+      "answer": "a",
+      "explanation": "El art. 17 establece el derecho a la educación universal, gratuita e intercultural."
+    },
+    {
+      "id": "constitucion-015",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El derecho a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones está normado en el:",
+      "options": {
+        "a": "Artículo 20 de la CPE",
+        "b": "Artículo 50 de la CPE",
+        "c": "Artículo 90 de la CPE",
+        "d": "Artículo 120 de la CPE",
+        "e": "Artículo 200 de la CPE"
+      },
+      "answer": "a",
+      "explanation": "El art. 20 consagra el acceso a servicios básicos como un derecho humano fundamental."
+    },
+    {
+      "id": "constitucion-016",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Conforme al art. 21 de la CPE, las bolivianas y los bolivianos tienen derecho a la libertad de pensamiento, espiritualidad, religión y culto, expresados de forma:",
+      "options": {
+        "a": "Individual o colectiva, tanto en público como en privado",
+        "b": "Solo en el ámbito privado",
+        "c": "Bajo autorización policial previa",
+        "d": "Únicamente dentro de templos reconocidos",
+        "e": "Solo en idioma originario"
+      },
+      "answer": "a",
+      "explanation": "El art. 21.3 garantiza la libertad de culto y pensamiento individual y colectiva."
+    },
+    {
+      "id": "constitucion-017",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 23 de la CPE, nadie podrá ser detenido, aprehendido o privado de su libertad, salvo en los casos y según las formas establecidas por la ley, mediante:",
+      "options": {
+        "a": "Mandamiento fundado y emitido por autoridad judicial competente",
+        "b": "Decisión verbal de cualquier funcionario policial",
+        "c": "Resolución de una junta vecinal",
+        "d": "Orden directa del Director de la Unidad Educativa",
+        "e": "Memorando administrativo interno"
+      },
+      "answer": "a",
+      "explanation": "Se requiere mandamiento escrito y motivado de juez competente, salvo flagrancia."
+    },
+    {
+      "id": "constitucion-018",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "En caso de delito flagrante, cualquier persona puede aprehender al autor con el único objeto de:",
+      "options": {
+        "a": "Entregarlo inmediatamente a la autoridad competente (art. 23.IV)",
+        "b": "Aplicar justicia comunitaria inmediata con agresión física",
+        "c": "Privarlo de libertad indefinidamente",
+        "d": "Confiscarle todos sus bienes personales",
+        "e": "Interrogarlo bajo juramento privado"
+      },
+      "answer": "a",
+      "explanation": "El art. 23.IV establece la entrega inmediata a la autoridad competente."
+    },
+    {
+      "id": "constitucion-019",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El derecho a la petición está consagrado en el art. 24 de la CPE. Este derecho exige que la respuesta de la autoridad sea:",
+      "options": {
+        "a": "Oportuna y motivada",
+        "b": "Solo verbal",
+        "c": "Opcional si es servidor público",
+        "d": "Únicamente en caso de procesos judiciales",
+        "e": "Previo pago de aranceles de respuesta"
+      },
+      "answer": "a",
+      "explanation": "El art. 24 garantiza la petición individual o colectiva y el derecho a obtener respuesta formal y pronta."
+    },
+    {
+      "id": "constitucion-020",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 30 de la CPE, ¿qué se entiende por nación y pueblo indígena originario campesino?",
+      "options": {
+        "a": "Toda colectividad humana que comparta identidad cultural, idioma, tradición histórica, territorialidad y cosmovisión previa a la invasión colonial",
+        "b": "Cualquier asociación vecinal periurbana",
+        "c": "Los sindicatos agrarios fundados después de 1952 exclusivamente",
+        "d": "Los comités cívicos departamentales",
+        "e": "Las organizaciones gremiales y comerciales"
+      },
+      "answer": "a",
+      "explanation": "El art. 30.I define a la nación y pueblo indígena originario campesino."
+    },
+    {
+      "id": "constitucion-021",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 77 de la CPE señala que la educación constituye una función:",
+      "options": {
+        "a": "Suprema y primera responsabilidad financiera del Estado",
+        "b": "Secundaria delegada a los municipios",
+        "c": "Exclusiva de las familias y la Iglesia",
+        "d": "Optativa de acuerdo al presupuesto disponible",
+        "e": "Compartida equitativamente entre privados y familias"
+      },
+      "answer": "a",
+      "explanation": "El art. 77.I consagra: 'La educación constituye una función suprema y primera responsabilidad financiera del Estado'."
+    },
+    {
+      "id": "constitucion-022",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 77, parágrafo II de la CPE, el Estado y la sociedad tienen tuición plena sobre el sistema educativo, el cual comprende:",
+      "options": {
+        "a": "Educación regular, alternativa y especial, y educación superior de formación profesional",
+        "b": "Solo la educación primaria y secundaria formal",
+        "c": "Únicamente las unidades educativas fiscales",
+        "d": "Exclusivamente las escuelas normales de maestros",
+        "e": "La educación universitaria pública de forma aislada"
+      },
+      "answer": "a",
+      "explanation": "El Sistema Educativo Plurinacional comprende el subsistema regular, alternativa/especial y superior."
+    },
+    {
+      "id": "constitucion-023",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "De acuerdo al art. 78 de la CPE, la educación es:",
+      "options": {
+        "a": "Unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad",
+        "b": "Bancarizada, elitista, selectiva y privatizada",
+        "c": "Confesional católica obligatoria",
+        "d": "Centralista, memorística y academicista",
+        "e": "Exclusivamente técnica sin formación humanística"
+      },
+      "answer": "a",
+      "explanation": "El art. 78.I define las características fundamentales de la educación boliviana."
+    },
+    {
+      "id": "constitucion-024",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 78, parágrafo II de la CPE establece que la educación es:",
+      "options": {
+        "a": "Intracultural, intercultural y plurilingüe en todo el sistema educativo",
+        "b": "Monolingüe en castellano para garantizar la unidad",
+        "c": "Bilingüe solo en el área rural",
+        "d": "Opcional en idiomas originarios según el colegio",
+        "e": "Extranjerizante y enfocada en idiomas europeos"
+      },
+      "answer": "a",
+      "explanation": "La educación es intracultural, intercultural y plurilingüe en todo el SEP."
+    },
+    {
+      "id": "constitucion-025",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 79 de la CPE, la educación fomentará el civismo, el diálogo intercultural y los valores ético-morales con base en:",
+      "options": {
+        "a": "Los derechos humanos y la no violencia en todas sus manifestaciones",
+        "b": "La competencia individualista del mercado",
+        "c": "La subordinación ideológica dogmática",
+        "d": "El castigo físico correctivo en las aulas",
+        "e": "La selección por rendimiento socioeconómico"
+      },
+      "answer": "a",
+      "explanation": "El art. 79 señala que se basa en el respeto a los derechos humanos y la equidad de género."
+    },
+    {
+      "id": "constitucion-026",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Conforme al art. 81 de la CPE, la educación es obligatoria hasta el nivel:",
+      "options": {
+        "a": "Bachillerato",
+        "b": "Primaria comunitaria vocacional",
+        "c": "Nivel inicial únicamente",
+        "d": "Tercero de secundaria",
+        "e": "Licenciatura universitaria"
+      },
+      "answer": "a",
+      "explanation": "El art. 81.I establece que la educación es obligatoria hasta el bachillerato y gratuita hasta el nivel superior."
+    },
+    {
+      "id": "constitucion-027",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 82 de la CPE determina que el Estado garantizará el acceso y permanencia escolar prioritariamente a:",
+      "options": {
+        "a": "Estudiantes en situación de vulnerabilidad, pobreza y con talento extraordinario o discapacidad",
+        "b": "Hijos de autoridades públicas exclusivamente",
+        "c": "Estudiantes que paguen matrículas privadas elevadas",
+        "d": "Quienes residan únicamente en capitales de departamento",
+        "e": "Aquellos que acrediten promedio mayor a 90 puntos"
+      },
+      "answer": "a",
+      "explanation": "El art. 82 prioriza a personas con menores recursos, discapacidad o talento extraordinario."
+    },
+    {
+      "id": "constitucion-028",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 84 de la CPE, el Estado y la sociedad tienen el deber de erradicar el:",
+      "options": {
+        "a": "Analfabetismo",
+        "b": "Uso de lenguas originarias",
+        "c": "Acceso a internet en el área rural",
+        "d": "Pensamiento crítico en las escuelas",
+        "e": "Deporte comunitario"
+      },
+      "answer": "a",
+      "explanation": "El art. 84 consagra el deber de erradicar el analfabetismo mediante programas continuos."
+    },
+    {
+      "id": "constitucion-029",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 88 de la CPE reconoce y respeta el funcionamiento de unidades educativas:",
+      "options": {
+        "a": "Privadas y de convenio, en todos los niveles y modalidades",
+        "b": "Únicamente fiscales bajo administración directa",
+        "c": "Solo aquellas pertenecientes a congregaciones religiosas extranjeras",
+        "d": "Exclusivamente las academias preuniversitarias",
+        "e": "Solo las escuelas técnicas agropecuarias"
+      },
+      "answer": "a",
+      "explanation": "El art. 88 reconoce las unidades privadas y de convenio, rigiéndose por las políticas del Estado."
+    },
+    {
+      "id": "constitucion-030",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 91 de la CPE, la educación superior es intracultural, intercultural y plurilingüe, y tiene por misión:",
+      "options": {
+        "a": "La formación integral, generación de conocimientos, investigación científica y tecnológica",
+        "b": "La emisión mercantil de títulos profesionales",
+        "c": "El adoctrinamiento partidario exclusivo",
+        "d": "La enseñanza de contenidos extranjeros sin contextualización",
+        "e": "La privatización progresiva de los saberes ancestrales"
+      },
+      "answer": "a",
+      "explanation": "El art. 91 establece los fines superiores de la formación profesional e investigación."
+    },
+    {
+      "id": "constitucion-031",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 96 de la CPE señala que la formación de maestros y maestras es una función:",
+      "options": {
+        "a": "Única, fiscal y gratuita a través de las Escuelas Superiores de Formación de Maestros",
+        "b": "Delegada a universidades privadas aranceladas",
+        "c": "Optativa mediante cursos por correspondencia",
+        "d": "Exclusiva de institutos comerciales",
+        "e": "Descentralizada en gobernaciones sin control del Ministerio"
+      },
+      "answer": "a",
+      "explanation": "El art. 96.I establece que es única, fiscal y gratuita."
+    },
+    {
+      "id": "constitucion-032",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Conforme al art. 108 de la CPE, ¿cuál de los siguientes es un DEBER fundamental de las bolivianas y los bolivianos?",
+      "options": {
+        "a": "Conocer, cumplir y hacer cumplir la Constitución y las leyes",
+        "b": "Evadir impuestos nacionales cuando no se esté de acuerdo",
+        "c": "Discriminar a quienes hablen un idioma diferente",
+        "d": "Destruir bienes públicos durante manifestaciones",
+        "e": "Negarse a prestar auxilio en casos de desastre"
+      },
+      "answer": "a",
+      "explanation": "El art. 108.1 establece el deber de cumplir y hacer cumplir la Constitución y las leyes."
+    },
+    {
+      "id": "constitucion-033",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 108, numeral 8 de la CPE, es deber de todo ciudadano:",
+      "options": {
+        "a": "Denunciar y combatir todos los actos de corrupción",
+        "b": "Aceptar gratificaciones indebidas por agilizar trámites",
+        "c": "Ocultar el mal manejo de fondos en las Unidades Educativas",
+        "d": "Tolerar el nepotismo en la designación de cargos",
+        "e": "Favorecer a familiares en contrataciones del Estado"
+      },
+      "answer": "a",
+      "explanation": "El art. 108.8 consagra el deber ético de denunciar y combatir la corrupción."
+    },
+    {
+      "id": "constitucion-034",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El art. 115 de la CPE consagra que toda persona tiene derecho a un proceso judicial o administrativo:",
+      "options": {
+        "a": "Gratuito, transparente, sin dilaciones indebidas y con oportuna y efectiva tutela",
+        "b": "Oneroso y reservado al público",
+        "c": "Con plazos indefinidos a criterio del juzgador",
+        "d": "Sin derecho a presentar pruebas de descargo",
+        "e": "Con fallo verbal inapelable e inaplicable"
+      },
+      "answer": "a",
+      "explanation": "El art. 115 garantiza el debido proceso y la tutela judicial efectiva."
+    },
+    {
+      "id": "constitucion-035",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "La presunción de inocencia está consagrada en la CPE en el:",
+      "options": {
+        "a": "Artículo 116, parágrafo I",
+        "b": "Artículo 12",
+        "c": "Artículo 28",
+        "d": "Artículo 170",
+        "e": "Artículo 400"
+      },
+      "answer": "a",
+      "explanation": "El art. 116.I consagra que se presume la inocencia del encausado mientras no se pruebe su culpabilidad."
+    },
+    {
+      "id": "constitucion-036",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 122 de la CPE, son NULOS los actos de las personas que:",
+      "options": {
+        "a": "Usurpen funciones que no les competen y los actos de quienes ejerzan jurisdicción o potestad que no emane de la ley",
+        "b": "Actúen en estricto apego al reglamento de la institución",
+        "c": "Ejerzan competencias debidamente delegadas por escrito",
+        "d": "Emitan resoluciones dentro del plazo legal previsto",
+        "e": "Cumplan órdenes legítimas de autoridad superior"
+      },
+      "answer": "a",
+      "explanation": "El art. 122 consagra el principio de legalidad y la nulidad de pleno derecho de actos usurpados."
+    },
+    {
+      "id": "constitucion-037",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "De acuerdo al art. 410 de la CPE, la norma suprema del ordenamiento jurídico boliviano y que goza de primacía frente a cualquier otra disposición es:",
+      "options": {
+        "a": "La Constitución Política del Estado",
+        "b": "El Decreto Supremo presidencial",
+        "c": "La Resolución Ministerial de educación",
+        "d": "El reglamento interno de la Unidad Educativa",
+        "e": "La ordenanza municipal"
+      },
+      "answer": "a",
+      "explanation": "El art. 410.II consagra la jerarquía normativa con la CPE en la cúspide."
+    },
+    {
+      "id": "constitucion-038",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "El bloque de constitucionalidad (art. 410.II de la CPE) está integrado por la Constitución y:",
+      "options": {
+        "a": "Los Tratados y Convenios Internacionales en materia de Derechos Humanos y normas de Derecho Comunitario",
+        "b": "Las resoluciones administrativas distritales",
+        "c": "Los bandos de la policía",
+        "d": "Las circulares internas de los colegios",
+        "e": "Los contratos laborales del magisterio"
+      },
+      "answer": "a",
+      "explanation": "El art. 410.II define la composición del bloque de constitucionalidad."
+    },
+    {
+      "id": "constitucion-039",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "Según el art. 165 de la CPE, el Órgano Ejecutivo está presidido por:",
+      "options": {
+        "a": "La Presidenta o Presidente del Estado, la Vicepresidenta o Vicepresidente, y las Ministras y Ministros",
+        "b": "El Presidente del Tribunal Supremo de Justicia",
+        "c": "El Presidente de la Asamblea Legislativa exclusivamente",
+        "d": "El Contralor General del Estado",
+        "e": "El Comandante General de la Policía"
+      },
+      "answer": "a",
+      "explanation": "El art. 165.I conforma el Órgano Ejecutivo."
+    },
+    {
+      "id": "constitucion-040",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "En el marco de la CPE, el principio de jerarquía normativa sitúa en el segundo nivel, inmediatamente debajo de la Constitución, a:",
+      "options": {
+        "a": "Los tratados internacionales ratificados y las leyes nacionales",
+        "b": "Los reglamentos internos escolares",
+        "c": "Las resoluciones distritales",
+        "d": "Los memorandos de sanción",
+        "e": "Las actas de asamblea de padres de familia"
+      },
+      "answer": "a",
+      "explanation": "El art. 410.II detalla la jerarquía: CPE, tratados, leyes nacionales, estatutos, decretos y resoluciones."
+    },
+    {
+      "id": "constitucion-041",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 41] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-042",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 42] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-043",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 43] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-044",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 44] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-045",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 45] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-046",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 46] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-047",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 47] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-048",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 48] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-049",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 49] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-050",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 50] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-051",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 51] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-052",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 52] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-053",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 53] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-054",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 54] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-055",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 55] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-056",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 56] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-057",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 57] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-058",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 58] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-059",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 59] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-060",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 60] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-061",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 61] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-062",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 62] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-063",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 63] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-064",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 64] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-065",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 65] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-066",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 66] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-067",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 67] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-068",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 68] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-069",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 69] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-070",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 70] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-071",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 71] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-072",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 72] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-073",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 73] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-074",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 74] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-075",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 75] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-076",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 76] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-077",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 77] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-078",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 78] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-079",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 79] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-080",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 80] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-081",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 81] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-082",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 82] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-083",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 83] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-084",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 84] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-085",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 85] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-086",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 86] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-087",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 87] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-088",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 88] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-089",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 89] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-090",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 90] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-091",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 91] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-092",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 92] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-093",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 93] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-094",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 94] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-095",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 95] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-096",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 96] Desde la perspectiva de la gestión del Director de Unidad Educativa, respecto a la Constitución Política del Estado (Parte I: Bases y Derechos), ¿cuál es una obligación ineludible?",
+      "options": {
+        "a": "Aplicar de forma estricta los principios y procedimientos establecidos en la norma",
+        "b": "Delegar la responsabilidad total al Consejo Educativo sin supervisión",
+        "c": "Omitir las denuncias para no afectar la imagen institucional",
+        "d": "Modificar el reglamento interno en contradicción con la normativa nacional",
+        "e": "Aplicar sanciones sin previo proceso ni derecho a la defensa"
+      },
+      "answer": "a",
+      "explanation": "El Director de UE es la máxima autoridad responsable de cumplir y hacer cumplir la normativa vigente en el marco del Estado Plurinacional."
+    },
+    {
+      "id": "constitucion-097",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 97] En el marco de la Constitución Política del Estado (Parte I: Bases y Derechos), ¿qué principio rector debe orientar prioritariamente la actuación institucional?",
+      "options": {
+        "a": "Arbitrariedad directiva en la toma de decisiones disciplinarias",
+        "b": "Preferencia de intereses particulares sobre el interés colectivo escolar",
+        "c": "Burocratización de trámites sin resolución oportuna",
+        "d": "Exclusión de estudiantes con dificultades de aprendizaje",
+        "e": "Interés superior, equidad, no discriminación y transparencia"
+      },
+      "answer": "e",
+      "explanation": "Los principios rectores garantizan los derechos fundamentales de la comunidad educativa."
+    },
+    {
+      "id": "constitucion-098",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 98] ¿Cuál de las siguientes situaciones constituye un INCUMPLIMIENTO flagrante de la Constitución Política del Estado (Parte I: Bases y Derechos) en una Unidad Educativa?",
+      "options": {
+        "a": "Planificar adaptaciones curriculares para estudiantes con necesidades específicas",
+        "b": "Emitir libretas de calificaciones según el calendario oficial",
+        "c": "Coordinar acciones de prevención con la Defensoría de la Niñez y Adolescencia",
+        "d": "Negar matrícula o acceso a la educación bajo pretextos económicos o discriminatorios",
+        "e": "Organizar reuniones de coordinación técnico-pedagógica con docentes"
+      },
+      "answer": "d",
+      "explanation": "La vulneración de derechos o negación de acceso educativo constituye falta grave y transgresión legal directa."
+    },
+    {
+      "id": "constitucion-099",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 99] Respecto a los plazos y procedimientos administrativos vinculados a la Constitución Política del Estado (Parte I: Bases y Derechos), la autoridad directiva debe:",
+      "options": {
+        "a": "Ignorar las solicitudes formales presentadas por madres, padres o tutores",
+        "b": "Archivar denuncias graves sin dar parte a las instancias competentes",
+        "c": "Actuar con celeridad, eficacia, debido proceso y dentro de los plazos reglamentarios",
+        "d": "Postergar indefinidamente la remisión de informes a la Dirección Distrital",
+        "e": "Resolver sumarios verbales sin dejar constancia documental"
+      },
+      "answer": "c",
+      "explanation": "La administración pública y educativa se rige por el principio de celeridad, eficacia y debido proceso."
+    },
+    {
+      "id": "constitucion-100",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "question": "[Ítem de profundización 100] En relación a las responsabilidades por la función pública derivadas de la Constitución Política del Estado (Parte I: Bases y Derechos), el Director de UE:",
+      "options": {
+        "a": "Tiene inmunidad ante denuncias de negligencia en el cuidado de estudiantes",
+        "b": "Asume responsabilidad administrativa, civil, penal o ejecutiva según corresponda a sus actos u omisiones",
+        "c": "Está exento de toda responsabilidad legal por ser un cargo educativo",
+        "d": "Solo responde ante la Junta Escolar y no ante la Dirección Distrital",
+        "e": "Puede ignorar las resoluciones ministeriales si el personal docente no está de acuerdo"
+      },
+      "answer": "b",
+      "explanation": "Conforme a la Ley 1178 y normativa específica, todo servidor público responde por los resultados de su gestión."
+    },
+    {
+      "id": "constitucion-101",
+      "question": "Según el art. 125 de la CPE, ¿qué acción puede interponer toda persona que considere que su vida está en peligro, que es ilegalmente perseguida o indebidamente privada de libertad?",
+      "options": {
+        "a": "Acción de Amparo Constitucional",
+        "b": "Acción de Libertad",
+        "c": "Acción de Protección de Privacidad",
+        "d": "Acción Popular",
+        "e": "Acción de Cumplimiento"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-102",
+      "question": "De acuerdo al art. 125 de la CPE, la Acción de Libertad puede interponerse:",
+      "options": {
+        "a": "Solo por la persona afectada",
+        "b": "Solo por la persona afectada o su representante legal",
+        "c": "Por cualquier persona, a su nombre o en nombre de otra",
+        "d": "Solo por un abogado debidamente acreditado",
+        "e": "Solo por el Defensor del Pueblo"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-103",
+      "question": "Según el art. 126 de la CPE, ¿en qué plazo máximo debe realizarse la audiencia de la Acción de Libertad una vez interpuesta?",
+      "options": {
+        "a": "Dentro de las 48 horas",
+        "b": "Dentro de las 72 horas",
+        "c": "Dentro de las 24 horas",
+        "d": "Inmediatamente",
+        "e": "Dentro de las 12 horas"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-104",
+      "question": "Según la CPE, la Acción de Libertad NO requiere:",
+      "options": {
+        "a": "Identificación del accionante",
+        "b": "Señalar la autoridad recurrida",
+        "c": "Formalidad procesal alguna",
+        "d": "Presentarse ante autoridad judicial",
+        "e": "Expresar los hechos"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-105",
+      "question": "¿Contra qué actos procede la Acción de Amparo Constitucional según el art. 128 de la CPE?",
+      "options": {
+        "a": "Solo contra actos de servidores públicos",
+        "b": "Solo contra actos de particulares",
+        "c": "Contra actos u omisiones ilegales o indebidos de servidores públicos o particulares que restrinjan, supriman o amenacen derechos reconocidos por la Constitución y la ley",
+        "d": "Solo contra resoluciones judiciales",
+        "e": "Solo contra leyes inconstitucionales"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-106",
+      "question": "Según el art. 129 de la CPE, ¿en qué plazo máximo debe celebrarse la audiencia de Acción de Amparo Constitucional?",
+      "options": {
+        "a": "24 horas",
+        "b": "72 horas",
+        "c": "48 horas",
+        "d": "5 días",
+        "e": "15 días"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-107",
+      "question": "Según el art. 129 de la CPE, ¿en qué plazo máximo debe pronunciarse la resolución de la Acción de Amparo Constitucional?",
+      "options": {
+        "a": "Inmediatamente concluida la audiencia",
+        "b": "Dentro de las 24 horas siguientes a la audiencia",
+        "c": "Dentro de las 48 horas siguientes a la audiencia",
+        "d": "Dentro de los 3 días siguientes a la audiencia",
+        "e": "Dentro de los 5 días siguientes a la audiencia"
+      },
+      "answer": "a",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: a."
+    },
+    {
+      "id": "constitucion-108",
+      "question": "¿Cuál es el plazo máximo para interponer la Acción de Amparo Constitucional según el art. 129 de la CPE?",
+      "options": {
+        "a": "Dentro de los 30 días desde la comisión del acto",
+        "b": "Dentro de los 15 días desde la comisión del acto",
+        "c": "Dentro de los 6 meses desde la comisión del acto",
+        "d": "No tiene plazo",
+        "e": "Dentro de los 60 días desde la comisión del acto"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-109",
+      "question": "Según el art. 130 de la CPE, la Acción de Protección de Privacidad procede cuando una persona cree estar indebida o ilegalmente impedida de conocer, objetar u obtener la eliminación o rectificación de:",
+      "options": {
+        "a": "Información sobre bienes públicos",
+        "b": "Datos registrados por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos públicos o privados que afecten su derecho a la intimidad y privacidad personal o familiar, o a su propia imagen, honra y reputación",
+        "c": "Solo información judicial",
+        "d": "Solo información tributaria",
+        "e": "Solo información médica"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-110",
+      "question": "Según el art. 131 de la CPE, ¿en qué plazo debe pronunciarse la resolución de la Acción de Protección de Privacidad tras la audiencia?",
+      "options": {
+        "a": "Dentro de las 48 horas",
+        "b": "Inmediatamente o dentro de las 24 horas",
+        "c": "Dentro de los 3 días",
+        "d": "Dentro de los 5 días",
+        "e": "Dentro de los 7 días"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-111",
+      "question": "Según el art. 132 de la CPE, ¿cuál es el objeto de la Acción de Inconstitucionalidad?",
+      "options": {
+        "a": "Proteger la libertad personal",
+        "b": "Solicitar el cumplimiento de una ley",
+        "c": "Obtener la inaplicabilidad o derogación de toda norma jurídica contraria a la Constitución",
+        "d": "Proteger datos personales",
+        "e": "Garantizar el acceso a la información pública"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-112",
+      "question": "Según el art. 134 de la CPE, la Acción de Cumplimiento procede en caso de incumplimiento de disposiciones constitucionales o de la ley por parte de servidores públicos. ¿Cómo se tramita?",
+      "options": {
+        "a": "Igual que la Acción de Libertad",
+        "b": "Igual que la Acción de Inconstitucionalidad",
+        "c": "Igual que la Acción de Amparo Constitucional",
+        "d": "Igual que la Acción Popular",
+        "e": "Mediante proceso ordinario"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-113",
+      "question": "Según el art. 135 de la CPE, la Acción Popular procede contra todo acto u omisión de autoridades o particulares que vulnere o amenace vulnerar derechos e intereses colectivos relacionados con:",
+      "options": {
+        "a": "Solo la libertad personal",
+        "b": "El patrimonio, el espacio, la seguridad y salubridad pública, el medio ambiente y otros de similar naturaleza reconocidos por la Constitución",
+        "c": "Solo el medio ambiente",
+        "d": "Solo la seguridad pública",
+        "e": "Solo el patrimonio del Estado"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-114",
+      "question": "Según el art. 136 de la CPE, la Acción Popular puede interponerse:",
+      "options": {
+        "a": "Solo durante el hecho vulneratorio",
+        "b": "Solo dentro de los 6 meses del hecho",
+        "c": "Durante el tiempo que subsista la vulneración o la amenaza a los derechos e intereses colectivos",
+        "d": "Solo dentro de los 30 días",
+        "e": "Solo por el Defensor del Pueblo"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-115",
+      "question": "Según el art. 136 de la CPE, la Acción Popular NO requiere:",
+      "options": {
+        "a": "Presentarse ante juez competente",
+        "b": "Señalar los hechos",
+        "c": "El agotamiento de las vías judiciales o administrativas que puedan existir",
+        "d": "Identificar al recurrido",
+        "e": "Fundamentar la pretensión"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-116",
+      "question": "Según el art. 141 de la CPE, ¿cuáles son las formas de adquirir la nacionalidad boliviana?",
+      "options": {
+        "a": "Solo por nacimiento",
+        "b": "Solo por naturalización",
+        "c": "Por nacimiento o por naturalización",
+        "d": "Por nacimiento, naturalización o adopción",
+        "e": "Por nacimiento, naturalización o matrimonio"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-117",
+      "question": "Según el art. 141 de la CPE, ¿quiénes son bolivianas y bolivianos por nacimiento?",
+      "options": {
+        "a": "Solo quienes nacen en territorio boliviano",
+        "b": "Las personas nacidas en el territorio boliviano, con excepción de hijas e hijos de personal extranjero en misión diplomática, y las personas nacidas en el extranjero de madre o padre bolivianos",
+        "c": "Solo los hijos de padres bolivianos nacidos en territorio boliviano",
+        "d": "Quienes residen en Bolivia por más de 5 años",
+        "e": "Solo quienes nacen en territorio boliviano y tienen ambos padres bolivianos"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-118",
+      "question": "Según el art. 142 de la CPE, ¿cuántos años de residencia se requieren para obtener la nacionalidad boliviana por naturalización?",
+      "options": {
+        "a": "5 años",
+        "b": "2 años",
+        "c": "10 años",
+        "d": "3 años",
+        "e": "1 año"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-119",
+      "question": "Según el art. 142 de la CPE, el tiempo de residencia requerido para la naturalización se reduce a dos años en favor de quienes:",
+      "options": {
+        "a": "Sean profesionales con título universitario",
+        "b": "Tengan cónyuge boliviana o boliviano, hijas o hijos bolivianos, o padres sustitutos de niñas, niños o adolescentes bolivianos",
+        "c": "Sean inversionistas extranjeros",
+        "d": "Hablen un idioma nativo boliviano",
+        "e": "Sean refugiados políticos"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-120",
+      "question": "Según el art. 143 de la CPE, ¿pueden las bolivianas y los bolivianos que adquieran ciudadanía extranjera perder su nacionalidad boliviana?",
+      "options": {
+        "a": "Sí, automáticamente",
+        "b": "Sí, si no renuncian expresamente a la nueva nacionalidad",
+        "c": "No perderán su nacionalidad de origen; la adquisición de una ciudadanía extranjera no implicará la pérdida de la nacionalidad boliviana",
+        "d": "Sí, pero solo si lo solicitan",
+        "e": "Sí, después de 5 años en el exterior"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-121",
+      "question": "Según el art. 144 de la CPE, ¿a partir de qué edad se adquiere la ciudadanía?",
+      "options": {
+        "a": "A los 21 años",
+        "b": "A los 16 años",
+        "c": "A los 18 años",
+        "d": "A los 14 años",
+        "e": "Al nacer"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-122",
+      "question": "Según el art. 144 de la CPE, ¿cuáles son los derechos que otorga la ciudadanía?",
+      "options": {
+        "a": "Solo a elegir representantes",
+        "b": "A elegir y ser elegida o elegido; al ejercicio de la función pública; y al derecho a ejercer funciones en la administración",
+        "c": "Solo el derecho al sufragio pasivo",
+        "d": "Solo a ejercer funciones públicas",
+        "e": "Solo a participar en referéndums"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-123",
+      "question": "Según el art. 145 de la CPE, la Asamblea Legislativa Plurinacional está compuesta por:",
+      "options": {
+        "a": "Una sola Cámara",
+        "b": "Tres Cámaras",
+        "c": "Dos Cámaras: la Cámara de Diputados y la Cámara de Senadores",
+        "d": "Dos Cámaras: la Cámara Alta y la Cámara Baja",
+        "e": "La Cámara de Representantes y el Senado"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-124",
+      "question": "Según el art. 146 de la CPE, ¿cuántos miembros tiene la Cámara de Diputados?",
+      "options": {
+        "a": "157 miembros",
+        "b": "120 miembros",
+        "c": "100 miembros",
+        "d": "130 miembros",
+        "e": "36 miembros"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-125",
+      "question": "Según el art. 146 de la CPE, de los 130 diputados, ¿cuántos son elegidos en circunscripciones uninominales y cuántos en circunscripciones plurinominales?",
+      "options": {
+        "a": "65 uninominales y 65 plurinominales",
+        "b": "70 uninominales y 60 plurinominales",
+        "c": "La mitad en circunscripciones uninominales y la otra mitad en circunscripciones plurinominales",
+        "d": "80 uninominales y 50 plurinominales",
+        "e": "90 uninominales y 40 plurinominales"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-126",
+      "question": "Según el art. 146 de la CPE, las circunscripciones especiales indígena originario campesinas se rigen por el principio de:",
+      "options": {
+        "a": "Proporcionalidad",
+        "b": "Mayoría simple",
+        "c": "Densidad poblacional de las naciones y pueblos indígena originario campesinos de cada departamento",
+        "d": "Igualdad territorial",
+        "e": "Representación por departamento"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-127",
+      "question": "Según el art. 148 de la CPE, ¿cuántos miembros tiene la Cámara de Senadores?",
+      "options": {
+        "a": "27 miembros",
+        "b": "30 miembros",
+        "c": "36 miembros",
+        "d": "45 miembros",
+        "e": "18 miembros"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-128",
+      "question": "Según el art. 148 de la CPE, ¿cuántos senadores se eligen por cada departamento?",
+      "options": {
+        "a": "3 senadores",
+        "b": "2 senadores",
+        "c": "5 senadores",
+        "d": "4 senadores",
+        "e": "6 senadores"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-129",
+      "question": "Según el art. 148 de la CPE, la asignación de los escaños de senadores se hace mediante:",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Voto directo uninominal",
+        "c": "Sistema proporcional",
+        "d": "Designación por el Presidente",
+        "e": "Sorteo entre candidatos"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-130",
+      "question": "Según el art. 149 de la CPE, ¿cuál es la edad mínima para ser candidata o candidato a la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "21 años",
+        "b": "25 años",
+        "c": "30 años",
+        "d": "18 años",
+        "e": "35 años"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-131",
+      "question": "Según el art. 150 de la CPE, la Asamblea Legislativa Plurinacional cuenta con asambleístas suplentes que:",
+      "options": {
+        "a": "Perciben remuneración permanente",
+        "b": "No perciben remuneración salvo en los casos en que efectivamente realicen suplencia",
+        "c": "Son designados por el Presidente",
+        "d": "Son elegidos en elección separada",
+        "e": "Solo pueden actuar si el titular fallece"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-132",
+      "question": "Según el art. 151 de la CPE, las asambleístas y los asambleístas gozan de inviolabilidad personal durante:",
+      "options": {
+        "a": "Solo durante las sesiones",
+        "b": "El tiempo de su mandato y con posterioridad sin límite",
+        "c": "El tiempo de su mandato y con posterioridad a éste",
+        "d": "Solo cuando están en el hemiciclo",
+        "e": "De por vida"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-133",
+      "question": "Según el art. 152 de la CPE, ¿cuál es la duración del mandato de las asambleístas y los asambleístas?",
+      "options": {
+        "a": "4 años",
+        "b": "6 años",
+        "c": "3 años",
+        "d": "5 años",
+        "e": "2 años"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-134",
+      "question": "Según el art. 152 de la CPE, las asambleístas y los asambleístas ¿pueden ser reelectas o reelectos?",
+      "options": {
+        "a": "No pueden ser reelectos",
+        "b": "Pueden ser reelectos indefinidamente",
+        "c": "Pueden ser reelectas o reelectos por una sola vez de manera continua",
+        "d": "Pueden ser reelectos por dos periodos consecutivos",
+        "e": "Solo pueden ser reelectos en la otra Cámara"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-135",
+      "question": "Según el art. 153 de la CPE, ¿quién preside la Asamblea Legislativa Plurinacional y la Cámara de Senadores?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Presidente de la Cámara de Diputados",
+        "c": "La Vicepresidenta o el Vicepresidente del Estado",
+        "d": "El Senador más antiguo",
+        "e": "Un Presidente elegido por los asambleístas"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-136",
+      "question": "Según el art. 155 de la CPE, para que una sesión de la Asamblea Legislativa Plurinacional o de sus Cámaras sea válida, se requiere la presencia de:",
+      "options": {
+        "a": "Un tercio de sus miembros",
+        "b": "Dos tercios de sus miembros",
+        "c": "La mayoría absoluta de sus miembros",
+        "d": "La totalidad de sus miembros",
+        "e": "Al menos un cuarto de sus miembros"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-137",
+      "question": "Según el art. 156 de la CPE, ¿cuánto tiempo duran las sesiones ordinarias de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "De enero a diciembre, sin interrupción",
+        "b": "De forma permanente con dos recesos de quince días cada año",
+        "c": "De enero a julio",
+        "d": "De marzo a noviembre",
+        "e": "De septiembre a agosto"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-138",
+      "question": "Según el art. 158 de la CPE, ¿cuál de las siguientes es una atribución de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "Designar al Presidente del Estado",
+        "b": "Aprobar autónomamente el presupuesto general del Estado presentado por el Órgano Ejecutivo",
+        "c": "Designar a los magistrados del Tribunal Constitucional",
+        "d": "Administrar directamente los recursos naturales",
+        "e": "Dirigir las Fuerzas Armadas"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-139",
+      "question": "Según el art. 158 de la CPE, la Asamblea Legislativa Plurinacional tiene entre sus atribuciones:",
+      "options": {
+        "a": "Dictar sentencias judiciales",
+        "b": "Aprobar la contratación de empréstitos que comprometan las rentas generales del Estado",
+        "c": "Designar embajadores",
+        "d": "Suscribir tratados internacionales",
+        "e": "Comandar las Fuerzas Armadas"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-140",
+      "question": "Según el art. 158 de la CPE, ¿qué mayoría se requiere para aprobar empréstitos que comprometan las rentas generales del Estado?",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta de los miembros presentes",
+        "c": "Dos tercios de los miembros presentes de la Asamblea Legislativa Plurinacional",
+        "d": "Unanimidad",
+        "e": "Tres quintos"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-141",
+      "question": "Según el art. 159 de la CPE, ¿cuál de las siguientes es una atribución exclusiva de la Cámara de Diputados?",
+      "options": {
+        "a": "Juzgar en única instancia a los miembros del Tribunal Constitucional",
+        "b": "Elaborar y aprobar su presupuesto, e iniciar la aprobación del Presupuesto General del Estado",
+        "c": "Aprobar tratados internacionales",
+        "d": "Designar al Contralor General del Estado",
+        "e": "Ratificar ascensos militares"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-142",
+      "question": "Según el art. 160 de la CPE, ¿cuál de las siguientes es una atribución exclusiva de la Cámara de Senadores?",
+      "options": {
+        "a": "Iniciar la aprobación del Presupuesto General del Estado",
+        "b": "Elegir a los miembros del Tribunal Constitucional Plurinacional",
+        "c": "Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones",
+        "d": "Aprobar el presupuesto del Órgano Judicial",
+        "e": "Designar al Fiscal General del Estado"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-143",
+      "question": "Según el art. 161 de la CPE, ¿quién puede convocar a sesiones extraordinarias de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "Solo el Presidente del Estado",
+        "b": "Solo la Vicepresidenta o el Vicepresidente del Estado",
+        "c": "La Presidenta o el Presidente de la Asamblea, o la Presidenta o el Presidente del Estado",
+        "d": "Solo la Cámara de Diputados",
+        "e": "Solo la Cámara de Senadores"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-144",
+      "question": "Según el art. 162 de la CPE, ¿quiénes tienen la facultad de iniciativa legislativa?",
+      "options": {
+        "a": "Solo los asambleístas",
+        "b": "Solo el Órgano Ejecutivo",
+        "c": "Las ciudadanas y los ciudadanos, las asambleístas y los asambleístas, el Órgano Ejecutivo, el Tribunal Supremo (en materia judicial), y las autonomías",
+        "d": "Solo el Presidente del Estado y los asambleístas",
+        "e": "Solo las organizaciones sociales"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-145",
+      "question": "Según el art. 163 de la CPE, una vez aprobado un proyecto de ley por la Cámara de origen, ¿a dónde se remite para su discusión?",
+      "options": {
+        "a": "Al Tribunal Constitucional",
+        "b": "Al Presidente del Estado",
+        "c": "A la Cámara revisora",
+        "d": "Al Defensor del Pueblo",
+        "e": "A las entidades autónomas"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-146",
+      "question": "Según el art. 163 de la CPE, si la Cámara revisora enmienda o modifica el proyecto de ley, ¿qué procedimiento se sigue?",
+      "options": {
+        "a": "Se archiva el proyecto",
+        "b": "Se remite directamente al Presidente",
+        "c": "Se considera en la plenaria de la Asamblea Legislativa Plurinacional",
+        "d": "Vuelve a la Cámara de origen para su reconsideración",
+        "e": "Se convoca a un referéndum"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-147",
+      "question": "Según el art. 164 de la CPE, una ley sancionada por la Asamblea Legislativa Plurinacional es obligatoria desde:",
+      "options": {
+        "a": "El momento de su aprobación en la Asamblea",
+        "b": "El día de su publicación en la Gaceta Oficial",
+        "c": "30 días después de su aprobación",
+        "d": "El día de su promulgación por el Presidente",
+        "e": "Desde su sanción por ambas Cámaras"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-148",
+      "question": "Según el art. 213 de la CPE, la Contraloría General del Estado es la institución técnica que ejerce la función de control de:",
+      "options": {
+        "a": "Solo la constitucionalidad de las leyes",
+        "b": "La administración de las entidades públicas y de aquellas en las que el Estado tenga participación o interés económico",
+        "c": "Solo el Órgano Ejecutivo",
+        "d": "Solo los gobiernos municipales",
+        "e": "Solo las Fuerzas Armadas"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-149",
+      "question": "Según el art. 213 de la CPE, la Contraloría General del Estado no depende de:",
+      "options": {
+        "a": "La ley",
+        "b": "La Constitución",
+        "c": "Ningún órgano del Estado, no está subordinada al Órgano Ejecutivo ni a ningún otro",
+        "d": "Las normas de contabilidad",
+        "e": "Los estándares internacionales de auditoría"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-150",
+      "question": "Según el art. 214 de la CPE, ¿quién designa a la Contralora o al Contralor General del Estado?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "La Cámara de Diputados",
+        "c": "La Presidenta o el Presidente del Estado, de una terna propuesta por la Asamblea Legislativa Plurinacional por dos tercios de votos de sus miembros presentes",
+        "d": "El Tribunal Supremo de Justicia",
+        "e": "El voto popular"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-151",
+      "question": "Según el art. 214 de la CPE, ¿cuál es el periodo del mandato de la Contralora o el Contralor General del Estado?",
+      "options": {
+        "a": "5 años",
+        "b": "4 años",
+        "c": "6 años",
+        "d": "7 años",
+        "e": "3 años"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-152",
+      "question": "Según el art. 215 de la CPE, ¿cuáles son algunas de las atribuciones de la Contraloría General del Estado?",
+      "options": {
+        "a": "Legislar sobre materia fiscal",
+        "b": "Determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal; tiene autonomía funcional, financiera, administrativa y organizativa",
+        "c": "Juzgar delitos contra el patrimonio del Estado",
+        "d": "Designar servidores públicos",
+        "e": "Aprobar el presupuesto del Estado"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-153",
+      "question": "Según el art. 217 de la CPE, la Contraloría General del Estado es responsable de la supervisión y del control externo posterior de las entidades públicas y de las entidades con participación o interés económico del Estado. La supervisión y el control fiscal podrán realizarse también sobre:",
+      "options": {
+        "a": "Solo entidades privadas internacionales",
+        "b": "La actividad administrativa del Órgano Judicial y del Órgano Electoral",
+        "c": "Solo gobiernos municipales",
+        "d": "Solo empresas estatales",
+        "e": "Solo organizaciones no gubernamentales"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-154",
+      "question": "Según el art. 218 de la CPE, la Defensoría del Pueblo velará por:",
+      "options": {
+        "a": "La defensa del Estado ante tribunales internacionales",
+        "b": "La vigencia, promoción, difusión y cumplimiento de los derechos humanos, individuales y colectivos, que se establecen en la Constitución, las leyes y los instrumentos internacionales",
+        "c": "La persecución penal de los delitos",
+        "d": "La defensa del patrimonio público",
+        "e": "La mediación en conflictos laborales"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-155",
+      "question": "Según el art. 218 de la CPE, ¿cuál es la función de la Defensoría del Pueblo respecto a la administración pública?",
+      "options": {
+        "a": "Controlar el presupuesto público",
+        "b": "Velar por la defensa, la promoción y divulgación de los derechos de las naciones y pueblos indígena originario campesinos, de las comunidades urbanas e interculturales, y de las bolivianas y los bolivianos en el exterior",
+        "c": "Administrar justicia",
+        "d": "Designar funcionarios públicos",
+        "e": "Elaborar leyes"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-156",
+      "question": "Según el art. 219 de la CPE, ¿quién designa a la Defensora o al Defensor del Pueblo?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Tribunal Constitucional Plurinacional",
+        "c": "La Asamblea Legislativa Plurinacional, por al menos dos tercios de los presentes",
+        "d": "El voto popular directo",
+        "e": "El Órgano Judicial"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-157",
+      "question": "Según el art. 220 de la CPE, la Defensora o el Defensor del Pueblo presta sus funciones por un periodo de:",
+      "options": {
+        "a": "4 años",
+        "b": "5 años",
+        "c": "6 años",
+        "d": "7 años",
+        "e": "3 años"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-158",
+      "question": "Según el art. 220 de la CPE, la Defensora o el Defensor del Pueblo:",
+      "options": {
+        "a": "Puede ser reelegido indefinidamente",
+        "b": "Puede ser reelegida o reelegido por una sola vez",
+        "c": "No puede ser reelegido nunca",
+        "d": "Puede ser reelegido por dos periodos",
+        "e": "Es designado de por vida"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-159",
+      "question": "Según el art. 222 de la CPE, ¿cuáles son algunas atribuciones de la Defensoría del Pueblo?",
+      "options": {
+        "a": "Interponer las acciones de Inconstitucionalidad, de Libertad, de Amparo Constitucional, de Protección de Privacidad, Popular, de Cumplimiento y el recurso directo de nulidad",
+        "b": "Administrar justicia ordinaria",
+        "c": "Legislar en materia de derechos humanos",
+        "d": "Comandar las Fuerzas Armadas",
+        "e": "Aprobar el presupuesto del Estado"
+      },
+      "answer": "a",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: a."
+    },
+    {
+      "id": "constitucion-160",
+      "question": "Según el art. 223 de la CPE, las autoridades y los servidores públicos tienen la obligación de proporcionar a la Defensoría del Pueblo la información que solicite:",
+      "options": {
+        "a": "Solo si hay orden judicial",
+        "b": "Solo en materia penal",
+        "c": "En relación con el ejercicio de sus funciones; la información no puede ser denegada",
+        "d": "Solo si la solicitud es aprobada por la Asamblea Legislativa",
+        "e": "Solo dentro de los 30 días de solicitada"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-161",
+      "question": "Según el art. 224 de la CPE, cada año la Defensora o el Defensor del Pueblo informará a la Asamblea Legislativa Plurinacional y al Control Social sobre:",
+      "options": {
+        "a": "El presupuesto del Estado",
+        "b": "La situación de los derechos humanos en el país y sobre la gestión de su administración",
+        "c": "La política económica del gobierno",
+        "d": "Las sentencias del Tribunal Constitucional",
+        "e": "La situación de las Fuerzas Armadas"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-162",
+      "question": "Según el art. 225 de la CPE, el Ministerio Público tiene como finalidad:",
+      "options": {
+        "a": "Defender al Estado en juicios internacionales",
+        "b": "Defender la legalidad y los intereses generales de la sociedad, y ejercer la acción penal pública",
+        "c": "Administrar justicia penal",
+        "d": "Legislar en materia penal",
+        "e": "Controlar la administración pública"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-163",
+      "question": "Según el art. 225 de la CPE, el Ministerio Público tiene:",
+      "options": {
+        "a": "Dependencia funcional del Órgano Ejecutivo",
+        "b": "Autonomía funcional, administrativa y financiera",
+        "c": "Dependencia del Órgano Judicial",
+        "d": "Dependencia del Órgano Electoral",
+        "e": "Autonomía solo administrativa"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-164",
+      "question": "Según el art. 226 de la CPE, ¿quién es la autoridad jerárquica superior del Ministerio Público?",
+      "options": {
+        "a": "El Ministro de Justicia",
+        "b": "El Presidente del Estado",
+        "c": "La Fiscal General o el Fiscal General del Estado",
+        "d": "El Presidente del Tribunal Supremo de Justicia",
+        "e": "El Defensor del Pueblo"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-165",
+      "question": "Según el art. 227 de la CPE, ¿quién designa a la Fiscal General o al Fiscal General del Estado?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "La Asamblea Legislativa Plurinacional, por dos tercios de votos de sus miembros presentes, de una terna presentada por el Presidente del Estado",
+        "c": "El Tribunal Constitucional Plurinacional",
+        "d": "El voto popular",
+        "e": "El Tribunal Supremo de Justicia"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-166",
+      "question": "Según el art. 228 de la CPE, ¿cuál es la duración del mandato del Fiscal General del Estado?",
+      "options": {
+        "a": "4 años",
+        "b": "5 años",
+        "c": "6 años sin posibilidad de nueva designación",
+        "d": "7 años",
+        "e": "6 años con posibilidad de reelección"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-167",
+      "question": "Según el art. 243 de la CPE, las Fuerzas Armadas del Estado están orgánicamente constituidas por:",
+      "options": {
+        "a": "El Ejército y la Fuerza Aérea",
+        "b": "El Ejército, la Fuerza Aérea Boliviana y la Armada Boliviana",
+        "c": "El Comando en Jefe, el Ejército, la Fuerza Aérea Boliviana y la Armada Boliviana",
+        "d": "La Policía y el Ejército",
+        "e": "El Ejército y la Marina"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-168",
+      "question": "Según el art. 244 de la CPE, las Fuerzas Armadas tienen por misión fundamental:",
+      "options": {
+        "a": "Mantener el orden interno",
+        "b": "Defender y conservar la independencia, seguridad y estabilidad del Estado, su honor y la soberanía del país; asegurar el imperio de la Constitución, garantizar la estabilidad del Gobierno legalmente constituido, y participar en el desarrollo integral del país",
+        "c": "Solo proteger las fronteras",
+        "d": "Administrar la justicia militar",
+        "e": "Solo participar en operaciones internacionales de paz"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-169",
+      "question": "Según el art. 245 de la CPE, la organización de las Fuerzas Armadas descansa en:",
+      "options": {
+        "a": "El principio de obediencia al partido gobernante",
+        "b": "Su jerarquía y disciplina",
+        "c": "La voluntad popular",
+        "d": "Las decisiones del Congreso",
+        "e": "Los acuerdos internacionales"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-170",
+      "question": "Según el art. 245 de la CPE, las Fuerzas Armadas son:",
+      "options": {
+        "a": "Deliberantes y participativas políticamente",
+        "b": "Esencialmente obedientes, no deliberan y están sujetas a las leyes y a los reglamentos militares",
+        "c": "Autónomas en sus decisiones políticas",
+        "d": "Dependientes de organizaciones internacionales",
+        "e": "Subordinadas a partidos políticos"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-171",
+      "question": "Según el art. 246 de la CPE, ¿quién es el Capitán General de las Fuerzas Armadas?",
+      "options": {
+        "a": "El Ministro de Defensa",
+        "b": "El Comandante en Jefe",
+        "c": "La Presidenta o el Presidente del Estado",
+        "d": "El Jefe de Estado Mayor",
+        "e": "El Vicepresidente del Estado"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-172",
+      "question": "Según el art. 247 de la CPE, ninguna extranjera ni ningún extranjero ejercerá mando ni empleo o cargo administrativo en las Fuerzas Armadas sin previa autorización de:",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Ministerio de Defensa",
+        "c": "La Capitana General o del Capitán General",
+        "d": "La Asamblea Legislativa Plurinacional",
+        "e": "El Tribunal Constitucional"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-173",
+      "question": "Según el art. 248 de la CPE, el Consejo Supremo de Defensa del Estado Plurinacional está integrado por:",
+      "options": {
+        "a": "Solo militares de alto rango",
+        "b": "La Presidenta o Presidente del Estado y otras autoridades determinadas por ley",
+        "c": "Solo el Ministro de Defensa",
+        "d": "Los expresidentes del Estado",
+        "e": "Solo senadores"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-174",
+      "question": "Según el art. 249 de la CPE, todo boliviano puede ser obligado a prestar servicio militar conforme a:",
+      "options": {
+        "a": "La voluntad del Presidente",
+        "b": "La ley",
+        "c": "La decisión de las Fuerzas Armadas",
+        "d": "Su departamento de origen",
+        "e": "Su condición económica"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-175",
+      "question": "Según el art. 251 de la CPE, la Policía Boliviana tiene por misión específica:",
+      "options": {
+        "a": "Defender las fronteras del Estado",
+        "b": "La defensa de la sociedad y la conservación del orden público, y el cumplimiento de las leyes en todo el territorio boliviano",
+        "c": "Investigar delitos de corrupción",
+        "d": "Administrar los centros penitenciarios",
+        "e": "Controlar la inmigración"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-176",
+      "question": "Según el art. 251 de la CPE, la Policía Boliviana ejerce su función policial de manera:",
+      "options": {
+        "a": "Autónoma y deliberante",
+        "b": "Integral, indivisible y bajo mando único",
+        "c": "Descentralizada por departamentos",
+        "d": "Subordinada a las Fuerzas Armadas",
+        "e": "Independiente del control estatal"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-177",
+      "question": "Según el art. 306 de la CPE, el modelo económico boliviano es:",
+      "options": {
+        "a": "Capitalista de libre mercado",
+        "b": "Socialista centralizado",
+        "c": "Plural, y está orientado a mejorar la calidad de vida y el vivir bien de todas las bolivianas y los bolivianos",
+        "d": "Mixto con predominio del sector privado",
+        "e": "De economía planificada estatal"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-178",
+      "question": "Según el art. 306 de la CPE, la economía plural está constituida por las formas de organización económica:",
+      "options": {
+        "a": "Pública y privada únicamente",
+        "b": "Estatal, cooperativa y privada",
+        "c": "Comunitaria, estatal, privada y social cooperativa",
+        "d": "Solo estatal y comunitaria",
+        "e": "Capitalista, socialista y mixta"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-179",
+      "question": "Según el art. 307 de la CPE, el Estado reconocerá, respetará, protegerá y promoverá la organización económica comunitaria, que comprende:",
+      "options": {
+        "a": "Solo las cooperativas mineras",
+        "b": "Los sistemas de producción y reproducción de la vida social, fundados en los principios y visión propios de las naciones y pueblos indígena originario campesinos",
+        "c": "Solo las empresas estatales",
+        "d": "Solo la agricultura",
+        "e": "Solo el comercio informal"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-180",
+      "question": "Según el art. 309 de la CPE, la forma de organización económica estatal comprende a las empresas y otras entidades económicas de propiedad estatal, que cumplirán los siguientes objetivos, EXCEPTO:",
+      "options": {
+        "a": "Administrar los servicios básicos de agua potable y alcantarillado",
+        "b": "Administrar los recursos naturales y sus procesos asociados",
+        "c": "Producir directamente bienes y servicios",
+        "d": "Maximizar las ganancias para los inversores privados",
+        "e": "Promover la democracia económica y el logro de la soberanía alimentaria de la población"
+      },
+      "answer": "d",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: d."
+    },
+    {
+      "id": "constitucion-181",
+      "question": "Según el art. 311 de la CPE, ¿cuáles formas de organización económica reconoce y protege el Estado?",
+      "options": {
+        "a": "Solo la privada",
+        "b": "Solo la estatal y privada",
+        "c": "Todas las formas de organización económica contempladas en la Constitución, con respeto a la iniciativa privada y libertad de empresa",
+        "d": "Solo la comunitaria y la cooperativa",
+        "e": "Solo la estatal"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-182",
+      "question": "Según el art. 312 de la CPE, toda actividad económica debe contribuir al fortalecimiento de la soberanía económica del país y NO se permitirá:",
+      "options": {
+        "a": "La inversión extranjera",
+        "b": "La acumulación privada de poder económico en grado tal que ponga en peligro la soberanía económica del Estado",
+        "c": "El comercio exterior",
+        "d": "Las empresas mixtas",
+        "e": "La propiedad privada"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-183",
+      "question": "Según el art. 313 de la CPE, para eliminar la pobreza y la exclusión social y económica, el Estado tiene entre sus propósitos:",
+      "options": {
+        "a": "Privatizar todas las empresas estatales",
+        "b": "Generación del producto social en el marco del respeto de los derechos individuales, así como de los derechos de los pueblos y las naciones",
+        "c": "Eliminar la propiedad privada",
+        "d": "Establecer un sistema de planificación central absoluto",
+        "e": "Prohibir el comercio internacional"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-184",
+      "question": "Según el art. 314 de la CPE, se prohíbe el monopolio y el oligopolio privado, así como cualquier otra forma de asociación o acuerdo de personas naturales o jurídicas privadas, bolivianas o extranjeras, que pretendan:",
+      "options": {
+        "a": "Competir en el mercado",
+        "b": "El control y la exclusividad en la producción y comercialización de bienes y servicios",
+        "c": "Exportar productos nacionales",
+        "d": "Crear empresas cooperativas",
+        "e": "Invertir en el sector productivo"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-185",
+      "question": "Según el art. 316 de la CPE, la función del Estado en la economía consiste en:",
+      "options": {
+        "a": "No intervenir en la economía",
+        "b": "Conducir el proceso de planificación económica y social con participación y consulta ciudadana, dirigir la economía y regular los procesos de producción, distribución y comercialización de bienes y servicios",
+        "c": "Solo recaudar impuestos",
+        "d": "Solo controlar la inflación",
+        "e": "Solo administrar las empresas estatales"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-186",
+      "question": "Según el art. 318 de la CPE, el Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas, considerando prioritariamente:",
+      "options": {
+        "a": "La exportación a mercados internacionales",
+        "b": "La demanda interna",
+        "c": "La competitividad internacional",
+        "d": "La inversión extranjera",
+        "e": "El endeudamiento público"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-187",
+      "question": "Según el art. 320 de la CPE, la inversión boliviana se priorizará frente a:",
+      "options": {
+        "a": "La inversión estatal",
+        "b": "La inversión cooperativa",
+        "c": "La inversión extranjera",
+        "d": "La inversión comunitaria",
+        "e": "La inversión municipal"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-188",
+      "question": "Según el art. 320 de la CPE, toda inversión extranjera estará sometida a:",
+      "options": {
+        "a": "Reglas especiales de privilegio",
+        "b": "La jurisdicción, a las leyes y a las autoridades bolivianas, y nadie podrá invocar situación de excepción",
+        "c": "La legislación del país de origen del inversor",
+        "d": "Tratados bilaterales de inversión exclusivamente",
+        "e": "Tribunales internacionales directamente"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-189",
+      "question": "Según el art. 321 de la CPE, la administración económica y financiera del Estado y de todas las entidades públicas se rige por:",
+      "options": {
+        "a": "Normas internacionales de contabilidad privada",
+        "b": "Su presupuesto respectivo",
+        "c": "Decisiones discrecionales de cada autoridad",
+        "d": "Acuerdos con organismos internacionales",
+        "e": "Convenios entre instituciones"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-190",
+      "question": "Según el art. 323 de la CPE, la política fiscal se basa en principios de:",
+      "options": {
+        "a": "Competitividad y productividad",
+        "b": "Capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria",
+        "c": "Solo recaudación máxima",
+        "d": "Descentralización y autonomía",
+        "e": "Libre mercado y competencia"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-191",
+      "question": "Según el art. 325 de la CPE, el ilícito económico, la especulación, el acaparamiento, el agio y la usura son:",
+      "options": {
+        "a": "Regulados por el mercado",
+        "b": "Sancionados por la ley",
+        "c": "Prohibidos por la Constitución y penados por ley",
+        "d": "Tolerados en tiempos de crisis",
+        "e": "Permitidos bajo ciertas condiciones"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-192",
+      "question": "Según el art. 326 de la CPE, el Estado tiene la facultad de determinar el monopolio estatal de actividades productivas y comerciales que se consideren:",
+      "options": {
+        "a": "Rentables para el Estado",
+        "b": "Imprescindibles en caso de necesidad pública",
+        "c": "De interés para las Fuerzas Armadas",
+        "d": "Necesarias para la exportación",
+        "e": "Importantes para el turismo"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-193",
+      "question": "Según el art. 330 de la CPE, el Estado NO podrá asumir deudas públicas que superen:",
+      "options": {
+        "a": "El 50% del PIB",
+        "b": "El 30% del PIB",
+        "c": "No se establece un límite porcentual fijo sino que deben ajustarse a la capacidad de generar ingresos y a la planificación",
+        "d": "El 80% del PIB",
+        "e": "El 100% del PIB"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-194",
+      "question": "Según el art. 331 de la CPE, las asignaciones atenderán especialmente a la educación, la salud, la alimentación, la vivienda y al:",
+      "options": {
+        "a": "Comercio exterior",
+        "b": "Turismo",
+        "c": "Desarrollo productivo",
+        "d": "Sector militar",
+        "e": "Transporte aéreo"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-195",
+      "question": "Según el art. 333 de la CPE, las operaciones financieras de la Administración Pública se realizarán por el sistema:",
+      "options": {
+        "a": "De banca privada",
+        "b": "De banca comercial internacional",
+        "c": "Bancario y financiero del Estado regulado por ley",
+        "d": "De criptomonedas",
+        "e": "De trueque y compensación"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-196",
+      "question": "Según el art. 336 de la CPE, el Banco Central de Bolivia es una institución de derecho público con:",
+      "options": {
+        "a": "Dependencia total del Órgano Ejecutivo",
+        "b": "Personalidad jurídica y patrimonio propio",
+        "c": "Carácter privado",
+        "d": "Dependencia del Órgano Legislativo",
+        "e": "Subordinación al sistema financiero internacional"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-197",
+      "question": "Según el art. 337 de la CPE, el Banco Central de Bolivia tiene entre sus funciones:",
+      "options": {
+        "a": "Solo emitir moneda",
+        "b": "Determinar y ejecutar la política monetaria, así como administrar las reservas internacionales",
+        "c": "Solo conceder préstamos al sector privado",
+        "d": "Solo controlar la inflación",
+        "e": "Solo regular el tipo de cambio"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    },
+    {
+      "id": "constitucion-198",
+      "question": "Según el art. 339 de la CPE, los ingresos del Estado se invertirán conforme con el plan general de desarrollo económico y social del país, el Presupuesto General del Estado y con la ley. ¿Qué prohíbe expresamente este artículo?",
+      "options": {
+        "a": "La inversión extranjera",
+        "b": "La inversión privada",
+        "c": "Toda forma de confiscación como pena o sanción",
+        "d": "La libre circulación de capitales",
+        "e": "El ahorro privado"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-199",
+      "question": "Según el art. 341 de la CPE, ¿está permitido al sector público hacer donaciones o subvenciones a entidades privadas con fines de lucro?",
+      "options": {
+        "a": "Sí, sin restricciones",
+        "b": "Sí, pero solo con autorización del Presidente",
+        "c": "No están permitidas; los recursos públicos no se destinarán a donaciones, subvenciones a entidades privadas con fines de lucro",
+        "d": "Sí, si lo aprueba la Asamblea Legislativa",
+        "e": "Sí, solo en caso de emergencia"
+      },
+      "answer": "c",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: c."
+    },
+    {
+      "id": "constitucion-200",
+      "question": "Según el art. 348 de la CPE, son recursos naturales:",
+      "options": {
+        "a": "Solo los minerales y los hidrocarburos",
+        "b": "Los minerales en todos sus estados, los hidrocarburos, el agua, el aire, el suelo y el subsuelo, los bosques, la biodiversidad, el espectro electromagnético y todos aquellos elementos y fuerzas físicas susceptibles de aprovechamiento",
+        "c": "Solo el agua y los hidrocarburos",
+        "d": "Solo los minerales y el agua",
+        "e": "Solo los bosques y la biodiversidad"
+      },
+      "answer": "b",
+      "topic_id": "cpe",
+      "topic_code": "4.1",
+      "category": "Normativa General",
+      "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+      "short_title": "4.1. Constitución Política del Estado (2009)",
+      "explanation": "Conforme a la CPE (artículos de garantías constitucionales y organización del Estado). Respuesta correcta: b."
+    }
+  ]
+}

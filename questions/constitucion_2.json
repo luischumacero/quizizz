@@ -1,0 +1,1205 @@
+{
+  "topic": "Constitución Política del Estado promulgada oficialmente el 7 de febrero de 2009",
+  "questions": [
+    {
+      "id": "constitucion-101",
+      "question": "Según el art. 125 de la CPE, ¿qué acción puede interponer toda persona que considere que su vida está en peligro, que es ilegalmente perseguida o indebidamente privada de libertad?",
+      "options": {
+        "a": "Acción de Amparo Constitucional",
+        "b": "Acción de Libertad",
+        "c": "Acción de Protección de Privacidad",
+        "d": "Acción Popular",
+        "e": "Acción de Cumplimiento"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-102",
+      "question": "De acuerdo al art. 125 de la CPE, la Acción de Libertad puede interponerse:",
+      "options": {
+        "a": "Solo por la persona afectada",
+        "b": "Solo por la persona afectada o su representante legal",
+        "c": "Por cualquier persona, a su nombre o en nombre de otra",
+        "d": "Solo por un abogado debidamente acreditado",
+        "e": "Solo por el Defensor del Pueblo"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-103",
+      "question": "Según el art. 126 de la CPE, ¿en qué plazo máximo debe realizarse la audiencia de la Acción de Libertad una vez interpuesta?",
+      "options": {
+        "a": "Dentro de las 48 horas",
+        "b": "Dentro de las 72 horas",
+        "c": "Dentro de las 24 horas",
+        "d": "Inmediatamente",
+        "e": "Dentro de las 12 horas"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-104",
+      "question": "Según la CPE, la Acción de Libertad NO requiere:",
+      "options": {
+        "a": "Identificación del accionante",
+        "b": "Señalar la autoridad recurrida",
+        "c": "Formalidad procesal alguna",
+        "d": "Presentarse ante autoridad judicial",
+        "e": "Expresar los hechos"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-105",
+      "question": "¿Contra qué actos procede la Acción de Amparo Constitucional según el art. 128 de la CPE?",
+      "options": {
+        "a": "Solo contra actos de servidores públicos",
+        "b": "Solo contra actos de particulares",
+        "c": "Contra actos u omisiones ilegales o indebidos de servidores públicos o particulares que restrinjan, supriman o amenacen derechos reconocidos por la Constitución y la ley",
+        "d": "Solo contra resoluciones judiciales",
+        "e": "Solo contra leyes inconstitucionales"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-106",
+      "question": "Según el art. 129 de la CPE, ¿en qué plazo máximo debe celebrarse la audiencia de Acción de Amparo Constitucional?",
+      "options": {
+        "a": "24 horas",
+        "b": "72 horas",
+        "c": "48 horas",
+        "d": "5 días",
+        "e": "15 días"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-107",
+      "question": "Según el art. 129 de la CPE, ¿en qué plazo máximo debe pronunciarse la resolución de la Acción de Amparo Constitucional?",
+      "options": {
+        "a": "Inmediatamente concluida la audiencia",
+        "b": "Dentro de las 24 horas siguientes a la audiencia",
+        "c": "Dentro de las 48 horas siguientes a la audiencia",
+        "d": "Dentro de los 3 días siguientes a la audiencia",
+        "e": "Dentro de los 5 días siguientes a la audiencia"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "constitucion-108",
+      "question": "¿Cuál es el plazo máximo para interponer la Acción de Amparo Constitucional según el art. 129 de la CPE?",
+      "options": {
+        "a": "Dentro de los 30 días desde la comisión del acto",
+        "b": "Dentro de los 15 días desde la comisión del acto",
+        "c": "Dentro de los 6 meses desde la comisión del acto",
+        "d": "No tiene plazo",
+        "e": "Dentro de los 60 días desde la comisión del acto"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-109",
+      "question": "Según el art. 130 de la CPE, la Acción de Protección de Privacidad procede cuando una persona cree estar indebida o ilegalmente impedida de conocer, objetar u obtener la eliminación o rectificación de:",
+      "options": {
+        "a": "Información sobre bienes públicos",
+        "b": "Datos registrados por cualquier medio físico, electrónico, magnético o informático, en archivos o bancos de datos públicos o privados que afecten su derecho a la intimidad y privacidad personal o familiar, o a su propia imagen, honra y reputación",
+        "c": "Solo información judicial",
+        "d": "Solo información tributaria",
+        "e": "Solo información médica"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-110",
+      "question": "Según el art. 131 de la CPE, ¿en qué plazo debe pronunciarse la resolución de la Acción de Protección de Privacidad tras la audiencia?",
+      "options": {
+        "a": "Dentro de las 48 horas",
+        "b": "Inmediatamente o dentro de las 24 horas",
+        "c": "Dentro de los 3 días",
+        "d": "Dentro de los 5 días",
+        "e": "Dentro de los 7 días"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-111",
+      "question": "Según el art. 132 de la CPE, ¿cuál es el objeto de la Acción de Inconstitucionalidad?",
+      "options": {
+        "a": "Proteger la libertad personal",
+        "b": "Solicitar el cumplimiento de una ley",
+        "c": "Obtener la inaplicabilidad o derogación de toda norma jurídica contraria a la Constitución",
+        "d": "Proteger datos personales",
+        "e": "Garantizar el acceso a la información pública"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-112",
+      "question": "Según el art. 134 de la CPE, la Acción de Cumplimiento procede en caso de incumplimiento de disposiciones constitucionales o de la ley por parte de servidores públicos. ¿Cómo se tramita?",
+      "options": {
+        "a": "Igual que la Acción de Libertad",
+        "b": "Igual que la Acción de Inconstitucionalidad",
+        "c": "Igual que la Acción de Amparo Constitucional",
+        "d": "Igual que la Acción Popular",
+        "e": "Mediante proceso ordinario"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-113",
+      "question": "Según el art. 135 de la CPE, la Acción Popular procede contra todo acto u omisión de autoridades o particulares que vulnere o amenace vulnerar derechos e intereses colectivos relacionados con:",
+      "options": {
+        "a": "Solo la libertad personal",
+        "b": "El patrimonio, el espacio, la seguridad y salubridad pública, el medio ambiente y otros de similar naturaleza reconocidos por la Constitución",
+        "c": "Solo el medio ambiente",
+        "d": "Solo la seguridad pública",
+        "e": "Solo el patrimonio del Estado"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-114",
+      "question": "Según el art. 136 de la CPE, la Acción Popular puede interponerse:",
+      "options": {
+        "a": "Solo durante el hecho vulneratorio",
+        "b": "Solo dentro de los 6 meses del hecho",
+        "c": "Durante el tiempo que subsista la vulneración o la amenaza a los derechos e intereses colectivos",
+        "d": "Solo dentro de los 30 días",
+        "e": "Solo por el Defensor del Pueblo"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-115",
+      "question": "Según el art. 136 de la CPE, la Acción Popular NO requiere:",
+      "options": {
+        "a": "Presentarse ante juez competente",
+        "b": "Señalar los hechos",
+        "c": "El agotamiento de las vías judiciales o administrativas que puedan existir",
+        "d": "Identificar al recurrido",
+        "e": "Fundamentar la pretensión"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-116",
+      "question": "Según el art. 141 de la CPE, ¿cuáles son las formas de adquirir la nacionalidad boliviana?",
+      "options": {
+        "a": "Solo por nacimiento",
+        "b": "Solo por naturalización",
+        "c": "Por nacimiento o por naturalización",
+        "d": "Por nacimiento, naturalización o adopción",
+        "e": "Por nacimiento, naturalización o matrimonio"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-117",
+      "question": "Según el art. 141 de la CPE, ¿quiénes son bolivianas y bolivianos por nacimiento?",
+      "options": {
+        "a": "Solo quienes nacen en territorio boliviano",
+        "b": "Las personas nacidas en el territorio boliviano, con excepción de hijas e hijos de personal extranjero en misión diplomática, y las personas nacidas en el extranjero de madre o padre bolivianos",
+        "c": "Solo los hijos de padres bolivianos nacidos en territorio boliviano",
+        "d": "Quienes residen en Bolivia por más de 5 años",
+        "e": "Solo quienes nacen en territorio boliviano y tienen ambos padres bolivianos"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-118",
+      "question": "Según el art. 142 de la CPE, ¿cuántos años de residencia se requieren para obtener la nacionalidad boliviana por naturalización?",
+      "options": {
+        "a": "5 años",
+        "b": "2 años",
+        "c": "10 años",
+        "d": "3 años",
+        "e": "1 año"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-119",
+      "question": "Según el art. 142 de la CPE, el tiempo de residencia requerido para la naturalización se reduce a dos años en favor de quienes:",
+      "options": {
+        "a": "Sean profesionales con título universitario",
+        "b": "Tengan cónyuge boliviana o boliviano, hijas o hijos bolivianos, o padres sustitutos de niñas, niños o adolescentes bolivianos",
+        "c": "Sean inversionistas extranjeros",
+        "d": "Hablen un idioma nativo boliviano",
+        "e": "Sean refugiados políticos"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-120",
+      "question": "Según el art. 143 de la CPE, ¿pueden las bolivianas y los bolivianos que adquieran ciudadanía extranjera perder su nacionalidad boliviana?",
+      "options": {
+        "a": "Sí, automáticamente",
+        "b": "Sí, si no renuncian expresamente a la nueva nacionalidad",
+        "c": "No perderán su nacionalidad de origen; la adquisición de una ciudadanía extranjera no implicará la pérdida de la nacionalidad boliviana",
+        "d": "Sí, pero solo si lo solicitan",
+        "e": "Sí, después de 5 años en el exterior"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-121",
+      "question": "Según el art. 144 de la CPE, ¿a partir de qué edad se adquiere la ciudadanía?",
+      "options": {
+        "a": "A los 21 años",
+        "b": "A los 16 años",
+        "c": "A los 18 años",
+        "d": "A los 14 años",
+        "e": "Al nacer"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-122",
+      "question": "Según el art. 144 de la CPE, ¿cuáles son los derechos que otorga la ciudadanía?",
+      "options": {
+        "a": "Solo a elegir representantes",
+        "b": "A elegir y ser elegida o elegido; al ejercicio de la función pública; y al derecho a ejercer funciones en la administración",
+        "c": "Solo el derecho al sufragio pasivo",
+        "d": "Solo a ejercer funciones públicas",
+        "e": "Solo a participar en referéndums"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-123",
+      "question": "Según el art. 145 de la CPE, la Asamblea Legislativa Plurinacional está compuesta por:",
+      "options": {
+        "a": "Una sola Cámara",
+        "b": "Tres Cámaras",
+        "c": "Dos Cámaras: la Cámara de Diputados y la Cámara de Senadores",
+        "d": "Dos Cámaras: la Cámara Alta y la Cámara Baja",
+        "e": "La Cámara de Representantes y el Senado"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-124",
+      "question": "Según el art. 146 de la CPE, ¿cuántos miembros tiene la Cámara de Diputados?",
+      "options": {
+        "a": "157 miembros",
+        "b": "120 miembros",
+        "c": "100 miembros",
+        "d": "130 miembros",
+        "e": "36 miembros"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-125",
+      "question": "Según el art. 146 de la CPE, de los 130 diputados, ¿cuántos son elegidos en circunscripciones uninominales y cuántos en circunscripciones plurinominales?",
+      "options": {
+        "a": "65 uninominales y 65 plurinominales",
+        "b": "70 uninominales y 60 plurinominales",
+        "c": "La mitad en circunscripciones uninominales y la otra mitad en circunscripciones plurinominales",
+        "d": "80 uninominales y 50 plurinominales",
+        "e": "90 uninominales y 40 plurinominales"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-126",
+      "question": "Según el art. 146 de la CPE, las circunscripciones especiales indígena originario campesinas se rigen por el principio de:",
+      "options": {
+        "a": "Proporcionalidad",
+        "b": "Mayoría simple",
+        "c": "Densidad poblacional de las naciones y pueblos indígena originario campesinos de cada departamento",
+        "d": "Igualdad territorial",
+        "e": "Representación por departamento"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-127",
+      "question": "Según el art. 148 de la CPE, ¿cuántos miembros tiene la Cámara de Senadores?",
+      "options": {
+        "a": "27 miembros",
+        "b": "30 miembros",
+        "c": "36 miembros",
+        "d": "45 miembros",
+        "e": "18 miembros"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-128",
+      "question": "Según el art. 148 de la CPE, ¿cuántos senadores se eligen por cada departamento?",
+      "options": {
+        "a": "3 senadores",
+        "b": "2 senadores",
+        "c": "5 senadores",
+        "d": "4 senadores",
+        "e": "6 senadores"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-129",
+      "question": "Según el art. 148 de la CPE, la asignación de los escaños de senadores se hace mediante:",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Voto directo uninominal",
+        "c": "Sistema proporcional",
+        "d": "Designación por el Presidente",
+        "e": "Sorteo entre candidatos"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-130",
+      "question": "Según el art. 149 de la CPE, ¿cuál es la edad mínima para ser candidata o candidato a la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "21 años",
+        "b": "25 años",
+        "c": "30 años",
+        "d": "18 años",
+        "e": "35 años"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-131",
+      "question": "Según el art. 150 de la CPE, la Asamblea Legislativa Plurinacional cuenta con asambleístas suplentes que:",
+      "options": {
+        "a": "Perciben remuneración permanente",
+        "b": "No perciben remuneración salvo en los casos en que efectivamente realicen suplencia",
+        "c": "Son designados por el Presidente",
+        "d": "Son elegidos en elección separada",
+        "e": "Solo pueden actuar si el titular fallece"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-132",
+      "question": "Según el art. 151 de la CPE, las asambleístas y los asambleístas gozan de inviolabilidad personal durante:",
+      "options": {
+        "a": "Solo durante las sesiones",
+        "b": "El tiempo de su mandato y con posterioridad sin límite",
+        "c": "El tiempo de su mandato y con posterioridad a éste",
+        "d": "Solo cuando están en el hemiciclo",
+        "e": "De por vida"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-133",
+      "question": "Según el art. 152 de la CPE, ¿cuál es la duración del mandato de las asambleístas y los asambleístas?",
+      "options": {
+        "a": "4 años",
+        "b": "6 años",
+        "c": "3 años",
+        "d": "5 años",
+        "e": "2 años"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-134",
+      "question": "Según el art. 152 de la CPE, las asambleístas y los asambleístas ¿pueden ser reelectas o reelectos?",
+      "options": {
+        "a": "No pueden ser reelectos",
+        "b": "Pueden ser reelectos indefinidamente",
+        "c": "Pueden ser reelectas o reelectos por una sola vez de manera continua",
+        "d": "Pueden ser reelectos por dos periodos consecutivos",
+        "e": "Solo pueden ser reelectos en la otra Cámara"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-135",
+      "question": "Según el art. 153 de la CPE, ¿quién preside la Asamblea Legislativa Plurinacional y la Cámara de Senadores?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Presidente de la Cámara de Diputados",
+        "c": "La Vicepresidenta o el Vicepresidente del Estado",
+        "d": "El Senador más antiguo",
+        "e": "Un Presidente elegido por los asambleístas"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-136",
+      "question": "Según el art. 155 de la CPE, para que una sesión de la Asamblea Legislativa Plurinacional o de sus Cámaras sea válida, se requiere la presencia de:",
+      "options": {
+        "a": "Un tercio de sus miembros",
+        "b": "Dos tercios de sus miembros",
+        "c": "La mayoría absoluta de sus miembros",
+        "d": "La totalidad de sus miembros",
+        "e": "Al menos un cuarto de sus miembros"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-137",
+      "question": "Según el art. 156 de la CPE, ¿cuánto tiempo duran las sesiones ordinarias de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "De enero a diciembre, sin interrupción",
+        "b": "De forma permanente con dos recesos de quince días cada año",
+        "c": "De enero a julio",
+        "d": "De marzo a noviembre",
+        "e": "De septiembre a agosto"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-138",
+      "question": "Según el art. 158 de la CPE, ¿cuál de las siguientes es una atribución de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "Designar al Presidente del Estado",
+        "b": "Aprobar autónomamente el presupuesto general del Estado presentado por el Órgano Ejecutivo",
+        "c": "Designar a los magistrados del Tribunal Constitucional",
+        "d": "Administrar directamente los recursos naturales",
+        "e": "Dirigir las Fuerzas Armadas"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-139",
+      "question": "Según el art. 158 de la CPE, la Asamblea Legislativa Plurinacional tiene entre sus atribuciones:",
+      "options": {
+        "a": "Dictar sentencias judiciales",
+        "b": "Aprobar la contratación de empréstitos que comprometan las rentas generales del Estado",
+        "c": "Designar embajadores",
+        "d": "Suscribir tratados internacionales",
+        "e": "Comandar las Fuerzas Armadas"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-140",
+      "question": "Según el art. 158 de la CPE, ¿qué mayoría se requiere para aprobar empréstitos que comprometan las rentas generales del Estado?",
+      "options": {
+        "a": "Mayoría simple",
+        "b": "Mayoría absoluta de los miembros presentes",
+        "c": "Dos tercios de los miembros presentes de la Asamblea Legislativa Plurinacional",
+        "d": "Unanimidad",
+        "e": "Tres quintos"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-141",
+      "question": "Según el art. 159 de la CPE, ¿cuál de las siguientes es una atribución exclusiva de la Cámara de Diputados?",
+      "options": {
+        "a": "Juzgar en única instancia a los miembros del Tribunal Constitucional",
+        "b": "Elaborar y aprobar su presupuesto, e iniciar la aprobación del Presupuesto General del Estado",
+        "c": "Aprobar tratados internacionales",
+        "d": "Designar al Contralor General del Estado",
+        "e": "Ratificar ascensos militares"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-142",
+      "question": "Según el art. 160 de la CPE, ¿cuál de las siguientes es una atribución exclusiva de la Cámara de Senadores?",
+      "options": {
+        "a": "Iniciar la aprobación del Presupuesto General del Estado",
+        "b": "Elegir a los miembros del Tribunal Constitucional Plurinacional",
+        "c": "Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones",
+        "d": "Aprobar el presupuesto del Órgano Judicial",
+        "e": "Designar al Fiscal General del Estado"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-143",
+      "question": "Según el art. 161 de la CPE, ¿quién puede convocar a sesiones extraordinarias de la Asamblea Legislativa Plurinacional?",
+      "options": {
+        "a": "Solo el Presidente del Estado",
+        "b": "Solo la Vicepresidenta o el Vicepresidente del Estado",
+        "c": "La Presidenta o el Presidente de la Asamblea, o la Presidenta o el Presidente del Estado",
+        "d": "Solo la Cámara de Diputados",
+        "e": "Solo la Cámara de Senadores"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-144",
+      "question": "Según el art. 162 de la CPE, ¿quiénes tienen la facultad de iniciativa legislativa?",
+      "options": {
+        "a": "Solo los asambleístas",
+        "b": "Solo el Órgano Ejecutivo",
+        "c": "Las ciudadanas y los ciudadanos, las asambleístas y los asambleístas, el Órgano Ejecutivo, el Tribunal Supremo (en materia judicial), y las autonomías",
+        "d": "Solo el Presidente del Estado y los asambleístas",
+        "e": "Solo las organizaciones sociales"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-145",
+      "question": "Según el art. 163 de la CPE, una vez aprobado un proyecto de ley por la Cámara de origen, ¿a dónde se remite para su discusión?",
+      "options": {
+        "a": "Al Tribunal Constitucional",
+        "b": "Al Presidente del Estado",
+        "c": "A la Cámara revisora",
+        "d": "Al Defensor del Pueblo",
+        "e": "A las entidades autónomas"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-146",
+      "question": "Según el art. 163 de la CPE, si la Cámara revisora enmienda o modifica el proyecto de ley, ¿qué procedimiento se sigue?",
+      "options": {
+        "a": "Se archiva el proyecto",
+        "b": "Se remite directamente al Presidente",
+        "c": "Se considera en la plenaria de la Asamblea Legislativa Plurinacional",
+        "d": "Vuelve a la Cámara de origen para su reconsideración",
+        "e": "Se convoca a un referéndum"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-147",
+      "question": "Según el art. 164 de la CPE, una ley sancionada por la Asamblea Legislativa Plurinacional es obligatoria desde:",
+      "options": {
+        "a": "El momento de su aprobación en la Asamblea",
+        "b": "El día de su publicación en la Gaceta Oficial",
+        "c": "30 días después de su aprobación",
+        "d": "El día de su promulgación por el Presidente",
+        "e": "Desde su sanción por ambas Cámaras"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-148",
+      "question": "Según el art. 213 de la CPE, la Contraloría General del Estado es la institución técnica que ejerce la función de control de:",
+      "options": {
+        "a": "Solo la constitucionalidad de las leyes",
+        "b": "La administración de las entidades públicas y de aquellas en las que el Estado tenga participación o interés económico",
+        "c": "Solo el Órgano Ejecutivo",
+        "d": "Solo los gobiernos municipales",
+        "e": "Solo las Fuerzas Armadas"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-149",
+      "question": "Según el art. 213 de la CPE, la Contraloría General del Estado no depende de:",
+      "options": {
+        "a": "La ley",
+        "b": "La Constitución",
+        "c": "Ningún órgano del Estado, no está subordinada al Órgano Ejecutivo ni a ningún otro",
+        "d": "Las normas de contabilidad",
+        "e": "Los estándares internacionales de auditoría"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-150",
+      "question": "Según el art. 214 de la CPE, ¿quién designa a la Contralora o al Contralor General del Estado?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "La Cámara de Diputados",
+        "c": "La Presidenta o el Presidente del Estado, de una terna propuesta por la Asamblea Legislativa Plurinacional por dos tercios de votos de sus miembros presentes",
+        "d": "El Tribunal Supremo de Justicia",
+        "e": "El voto popular"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-151",
+      "question": "Según el art. 214 de la CPE, ¿cuál es el periodo del mandato de la Contralora o el Contralor General del Estado?",
+      "options": {
+        "a": "5 años",
+        "b": "4 años",
+        "c": "6 años",
+        "d": "7 años",
+        "e": "3 años"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-152",
+      "question": "Según el art. 215 de la CPE, ¿cuáles son algunas de las atribuciones de la Contraloría General del Estado?",
+      "options": {
+        "a": "Legislar sobre materia fiscal",
+        "b": "Determinar indicios de responsabilidad administrativa, ejecutiva, civil y penal; tiene autonomía funcional, financiera, administrativa y organizativa",
+        "c": "Juzgar delitos contra el patrimonio del Estado",
+        "d": "Designar servidores públicos",
+        "e": "Aprobar el presupuesto del Estado"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-153",
+      "question": "Según el art. 217 de la CPE, la Contraloría General del Estado es responsable de la supervisión y del control externo posterior de las entidades públicas y de las entidades con participación o interés económico del Estado. La supervisión y el control fiscal podrán realizarse también sobre:",
+      "options": {
+        "a": "Solo entidades privadas internacionales",
+        "b": "La actividad administrativa del Órgano Judicial y del Órgano Electoral",
+        "c": "Solo gobiernos municipales",
+        "d": "Solo empresas estatales",
+        "e": "Solo organizaciones no gubernamentales"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-154",
+      "question": "Según el art. 218 de la CPE, la Defensoría del Pueblo velará por:",
+      "options": {
+        "a": "La defensa del Estado ante tribunales internacionales",
+        "b": "La vigencia, promoción, difusión y cumplimiento de los derechos humanos, individuales y colectivos, que se establecen en la Constitución, las leyes y los instrumentos internacionales",
+        "c": "La persecución penal de los delitos",
+        "d": "La defensa del patrimonio público",
+        "e": "La mediación en conflictos laborales"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-155",
+      "question": "Según el art. 218 de la CPE, ¿cuál es la función de la Defensoría del Pueblo respecto a la administración pública?",
+      "options": {
+        "a": "Controlar el presupuesto público",
+        "b": "Velar por la defensa, la promoción y divulgación de los derechos de las naciones y pueblos indígena originario campesinos, de las comunidades urbanas e interculturales, y de las bolivianas y los bolivianos en el exterior",
+        "c": "Administrar justicia",
+        "d": "Designar funcionarios públicos",
+        "e": "Elaborar leyes"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-156",
+      "question": "Según el art. 219 de la CPE, ¿quién designa a la Defensora o al Defensor del Pueblo?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Tribunal Constitucional Plurinacional",
+        "c": "La Asamblea Legislativa Plurinacional, por al menos dos tercios de los presentes",
+        "d": "El voto popular directo",
+        "e": "El Órgano Judicial"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-157",
+      "question": "Según el art. 220 de la CPE, la Defensora o el Defensor del Pueblo presta sus funciones por un periodo de:",
+      "options": {
+        "a": "4 años",
+        "b": "5 años",
+        "c": "6 años",
+        "d": "7 años",
+        "e": "3 años"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-158",
+      "question": "Según el art. 220 de la CPE, la Defensora o el Defensor del Pueblo:",
+      "options": {
+        "a": "Puede ser reelegido indefinidamente",
+        "b": "Puede ser reelegida o reelegido por una sola vez",
+        "c": "No puede ser reelegido nunca",
+        "d": "Puede ser reelegido por dos periodos",
+        "e": "Es designado de por vida"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-159",
+      "question": "Según el art. 222 de la CPE, ¿cuáles son algunas atribuciones de la Defensoría del Pueblo?",
+      "options": {
+        "a": "Interponer las acciones de Inconstitucionalidad, de Libertad, de Amparo Constitucional, de Protección de Privacidad, Popular, de Cumplimiento y el recurso directo de nulidad",
+        "b": "Administrar justicia ordinaria",
+        "c": "Legislar en materia de derechos humanos",
+        "d": "Comandar las Fuerzas Armadas",
+        "e": "Aprobar el presupuesto del Estado"
+      },
+      "answer": "a"
+    },
+    {
+      "id": "constitucion-160",
+      "question": "Según el art. 223 de la CPE, las autoridades y los servidores públicos tienen la obligación de proporcionar a la Defensoría del Pueblo la información que solicite:",
+      "options": {
+        "a": "Solo si hay orden judicial",
+        "b": "Solo en materia penal",
+        "c": "En relación con el ejercicio de sus funciones; la información no puede ser denegada",
+        "d": "Solo si la solicitud es aprobada por la Asamblea Legislativa",
+        "e": "Solo dentro de los 30 días de solicitada"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-161",
+      "question": "Según el art. 224 de la CPE, cada año la Defensora o el Defensor del Pueblo informará a la Asamblea Legislativa Plurinacional y al Control Social sobre:",
+      "options": {
+        "a": "El presupuesto del Estado",
+        "b": "La situación de los derechos humanos en el país y sobre la gestión de su administración",
+        "c": "La política económica del gobierno",
+        "d": "Las sentencias del Tribunal Constitucional",
+        "e": "La situación de las Fuerzas Armadas"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-162",
+      "question": "Según el art. 225 de la CPE, el Ministerio Público tiene como finalidad:",
+      "options": {
+        "a": "Defender al Estado en juicios internacionales",
+        "b": "Defender la legalidad y los intereses generales de la sociedad, y ejercer la acción penal pública",
+        "c": "Administrar justicia penal",
+        "d": "Legislar en materia penal",
+        "e": "Controlar la administración pública"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-163",
+      "question": "Según el art. 225 de la CPE, el Ministerio Público tiene:",
+      "options": {
+        "a": "Dependencia funcional del Órgano Ejecutivo",
+        "b": "Autonomía funcional, administrativa y financiera",
+        "c": "Dependencia del Órgano Judicial",
+        "d": "Dependencia del Órgano Electoral",
+        "e": "Autonomía solo administrativa"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-164",
+      "question": "Según el art. 226 de la CPE, ¿quién es la autoridad jerárquica superior del Ministerio Público?",
+      "options": {
+        "a": "El Ministro de Justicia",
+        "b": "El Presidente del Estado",
+        "c": "La Fiscal General o el Fiscal General del Estado",
+        "d": "El Presidente del Tribunal Supremo de Justicia",
+        "e": "El Defensor del Pueblo"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-165",
+      "question": "Según el art. 227 de la CPE, ¿quién designa a la Fiscal General o al Fiscal General del Estado?",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "La Asamblea Legislativa Plurinacional, por dos tercios de votos de sus miembros presentes, de una terna presentada por el Presidente del Estado",
+        "c": "El Tribunal Constitucional Plurinacional",
+        "d": "El voto popular",
+        "e": "El Tribunal Supremo de Justicia"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-166",
+      "question": "Según el art. 228 de la CPE, ¿cuál es la duración del mandato del Fiscal General del Estado?",
+      "options": {
+        "a": "4 años",
+        "b": "5 años",
+        "c": "6 años sin posibilidad de nueva designación",
+        "d": "7 años",
+        "e": "6 años con posibilidad de reelección"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-167",
+      "question": "Según el art. 243 de la CPE, las Fuerzas Armadas del Estado están orgánicamente constituidas por:",
+      "options": {
+        "a": "El Ejército y la Fuerza Aérea",
+        "b": "El Ejército, la Fuerza Aérea Boliviana y la Armada Boliviana",
+        "c": "El Comando en Jefe, el Ejército, la Fuerza Aérea Boliviana y la Armada Boliviana",
+        "d": "La Policía y el Ejército",
+        "e": "El Ejército y la Marina"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-168",
+      "question": "Según el art. 244 de la CPE, las Fuerzas Armadas tienen por misión fundamental:",
+      "options": {
+        "a": "Mantener el orden interno",
+        "b": "Defender y conservar la independencia, seguridad y estabilidad del Estado, su honor y la soberanía del país; asegurar el imperio de la Constitución, garantizar la estabilidad del Gobierno legalmente constituido, y participar en el desarrollo integral del país",
+        "c": "Solo proteger las fronteras",
+        "d": "Administrar la justicia militar",
+        "e": "Solo participar en operaciones internacionales de paz"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-169",
+      "question": "Según el art. 245 de la CPE, la organización de las Fuerzas Armadas descansa en:",
+      "options": {
+        "a": "El principio de obediencia al partido gobernante",
+        "b": "Su jerarquía y disciplina",
+        "c": "La voluntad popular",
+        "d": "Las decisiones del Congreso",
+        "e": "Los acuerdos internacionales"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-170",
+      "question": "Según el art. 245 de la CPE, las Fuerzas Armadas son:",
+      "options": {
+        "a": "Deliberantes y participativas políticamente",
+        "b": "Esencialmente obedientes, no deliberan y están sujetas a las leyes y a los reglamentos militares",
+        "c": "Autónomas en sus decisiones políticas",
+        "d": "Dependientes de organizaciones internacionales",
+        "e": "Subordinadas a partidos políticos"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-171",
+      "question": "Según el art. 246 de la CPE, ¿quién es el Capitán General de las Fuerzas Armadas?",
+      "options": {
+        "a": "El Ministro de Defensa",
+        "b": "El Comandante en Jefe",
+        "c": "La Presidenta o el Presidente del Estado",
+        "d": "El Jefe de Estado Mayor",
+        "e": "El Vicepresidente del Estado"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-172",
+      "question": "Según el art. 247 de la CPE, ninguna extranjera ni ningún extranjero ejercerá mando ni empleo o cargo administrativo en las Fuerzas Armadas sin previa autorización de:",
+      "options": {
+        "a": "El Presidente del Estado",
+        "b": "El Ministerio de Defensa",
+        "c": "La Capitana General o del Capitán General",
+        "d": "La Asamblea Legislativa Plurinacional",
+        "e": "El Tribunal Constitucional"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-173",
+      "question": "Según el art. 248 de la CPE, el Consejo Supremo de Defensa del Estado Plurinacional está integrado por:",
+      "options": {
+        "a": "Solo militares de alto rango",
+        "b": "La Presidenta o Presidente del Estado y otras autoridades determinadas por ley",
+        "c": "Solo el Ministro de Defensa",
+        "d": "Los expresidentes del Estado",
+        "e": "Solo senadores"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-174",
+      "question": "Según el art. 249 de la CPE, todo boliviano puede ser obligado a prestar servicio militar conforme a:",
+      "options": {
+        "a": "La voluntad del Presidente",
+        "b": "La ley",
+        "c": "La decisión de las Fuerzas Armadas",
+        "d": "Su departamento de origen",
+        "e": "Su condición económica"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-175",
+      "question": "Según el art. 251 de la CPE, la Policía Boliviana tiene por misión específica:",
+      "options": {
+        "a": "Defender las fronteras del Estado",
+        "b": "La defensa de la sociedad y la conservación del orden público, y el cumplimiento de las leyes en todo el territorio boliviano",
+        "c": "Investigar delitos de corrupción",
+        "d": "Administrar los centros penitenciarios",
+        "e": "Controlar la inmigración"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-176",
+      "question": "Según el art. 251 de la CPE, la Policía Boliviana ejerce su función policial de manera:",
+      "options": {
+        "a": "Autónoma y deliberante",
+        "b": "Integral, indivisible y bajo mando único",
+        "c": "Descentralizada por departamentos",
+        "d": "Subordinada a las Fuerzas Armadas",
+        "e": "Independiente del control estatal"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-177",
+      "question": "Según el art. 306 de la CPE, el modelo económico boliviano es:",
+      "options": {
+        "a": "Capitalista de libre mercado",
+        "b": "Socialista centralizado",
+        "c": "Plural, y está orientado a mejorar la calidad de vida y el vivir bien de todas las bolivianas y los bolivianos",
+        "d": "Mixto con predominio del sector privado",
+        "e": "De economía planificada estatal"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-178",
+      "question": "Según el art. 306 de la CPE, la economía plural está constituida por las formas de organización económica:",
+      "options": {
+        "a": "Pública y privada únicamente",
+        "b": "Estatal, cooperativa y privada",
+        "c": "Comunitaria, estatal, privada y social cooperativa",
+        "d": "Solo estatal y comunitaria",
+        "e": "Capitalista, socialista y mixta"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-179",
+      "question": "Según el art. 307 de la CPE, el Estado reconocerá, respetará, protegerá y promoverá la organización económica comunitaria, que comprende:",
+      "options": {
+        "a": "Solo las cooperativas mineras",
+        "b": "Los sistemas de producción y reproducción de la vida social, fundados en los principios y visión propios de las naciones y pueblos indígena originario campesinos",
+        "c": "Solo las empresas estatales",
+        "d": "Solo la agricultura",
+        "e": "Solo el comercio informal"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-180",
+      "question": "Según el art. 309 de la CPE, la forma de organización económica estatal comprende a las empresas y otras entidades económicas de propiedad estatal, que cumplirán los siguientes objetivos, EXCEPTO:",
+      "options": {
+        "a": "Administrar los servicios básicos de agua potable y alcantarillado",
+        "b": "Administrar los recursos naturales y sus procesos asociados",
+        "c": "Producir directamente bienes y servicios",
+        "d": "Maximizar las ganancias para los inversores privados",
+        "e": "Promover la democracia económica y el logro de la soberanía alimentaria de la población"
+      },
+      "answer": "d"
+    },
+    {
+      "id": "constitucion-181",
+      "question": "Según el art. 311 de la CPE, ¿cuáles formas de organización económica reconoce y protege el Estado?",
+      "options": {
+        "a": "Solo la privada",
+        "b": "Solo la estatal y privada",
+        "c": "Todas las formas de organización económica contempladas en la Constitución, con respeto a la iniciativa privada y libertad de empresa",
+        "d": "Solo la comunitaria y la cooperativa",
+        "e": "Solo la estatal"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-182",
+      "question": "Según el art. 312 de la CPE, toda actividad económica debe contribuir al fortalecimiento de la soberanía económica del país y NO se permitirá:",
+      "options": {
+        "a": "La inversión extranjera",
+        "b": "La acumulación privada de poder económico en grado tal que ponga en peligro la soberanía económica del Estado",
+        "c": "El comercio exterior",
+        "d": "Las empresas mixtas",
+        "e": "La propiedad privada"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-183",
+      "question": "Según el art. 313 de la CPE, para eliminar la pobreza y la exclusión social y económica, el Estado tiene entre sus propósitos:",
+      "options": {
+        "a": "Privatizar todas las empresas estatales",
+        "b": "Generación del producto social en el marco del respeto de los derechos individuales, así como de los derechos de los pueblos y las naciones",
+        "c": "Eliminar la propiedad privada",
+        "d": "Establecer un sistema de planificación central absoluto",
+        "e": "Prohibir el comercio internacional"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-184",
+      "question": "Según el art. 314 de la CPE, se prohíbe el monopolio y el oligopolio privado, así como cualquier otra forma de asociación o acuerdo de personas naturales o jurídicas privadas, bolivianas o extranjeras, que pretendan:",
+      "options": {
+        "a": "Competir en el mercado",
+        "b": "El control y la exclusividad en la producción y comercialización de bienes y servicios",
+        "c": "Exportar productos nacionales",
+        "d": "Crear empresas cooperativas",
+        "e": "Invertir en el sector productivo"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-185",
+      "question": "Según el art. 316 de la CPE, la función del Estado en la economía consiste en:",
+      "options": {
+        "a": "No intervenir en la economía",
+        "b": "Conducir el proceso de planificación económica y social con participación y consulta ciudadana, dirigir la economía y regular los procesos de producción, distribución y comercialización de bienes y servicios",
+        "c": "Solo recaudar impuestos",
+        "d": "Solo controlar la inflación",
+        "e": "Solo administrar las empresas estatales"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-186",
+      "question": "Según el art. 318 de la CPE, el Estado determinará una política productiva industrial y comercial que garantice una oferta de bienes y servicios suficientes para cubrir de forma adecuada las necesidades básicas, considerando prioritariamente:",
+      "options": {
+        "a": "La exportación a mercados internacionales",
+        "b": "La demanda interna",
+        "c": "La competitividad internacional",
+        "d": "La inversión extranjera",
+        "e": "El endeudamiento público"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-187",
+      "question": "Según el art. 320 de la CPE, la inversión boliviana se priorizará frente a:",
+      "options": {
+        "a": "La inversión estatal",
+        "b": "La inversión cooperativa",
+        "c": "La inversión extranjera",
+        "d": "La inversión comunitaria",
+        "e": "La inversión municipal"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-188",
+      "question": "Según el art. 320 de la CPE, toda inversión extranjera estará sometida a:",
+      "options": {
+        "a": "Reglas especiales de privilegio",
+        "b": "La jurisdicción, a las leyes y a las autoridades bolivianas, y nadie podrá invocar situación de excepción",
+        "c": "La legislación del país de origen del inversor",
+        "d": "Tratados bilaterales de inversión exclusivamente",
+        "e": "Tribunales internacionales directamente"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-189",
+      "question": "Según el art. 321 de la CPE, la administración económica y financiera del Estado y de todas las entidades públicas se rige por:",
+      "options": {
+        "a": "Normas internacionales de contabilidad privada",
+        "b": "Su presupuesto respectivo",
+        "c": "Decisiones discrecionales de cada autoridad",
+        "d": "Acuerdos con organismos internacionales",
+        "e": "Convenios entre instituciones"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-190",
+      "question": "Según el art. 323 de la CPE, la política fiscal se basa en principios de:",
+      "options": {
+        "a": "Competitividad y productividad",
+        "b": "Capacidad económica, igualdad, progresividad, proporcionalidad, transparencia, universalidad, control, sencillez administrativa y capacidad recaudatoria",
+        "c": "Solo recaudación máxima",
+        "d": "Descentralización y autonomía",
+        "e": "Libre mercado y competencia"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-191",
+      "question": "Según el art. 325 de la CPE, el ilícito económico, la especulación, el acaparamiento, el agio y la usura son:",
+      "options": {
+        "a": "Regulados por el mercado",
+        "b": "Sancionados por la ley",
+        "c": "Prohibidos por la Constitución y penados por ley",
+        "d": "Tolerados en tiempos de crisis",
+        "e": "Permitidos bajo ciertas condiciones"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-192",
+      "question": "Según el art. 326 de la CPE, el Estado tiene la facultad de determinar el monopolio estatal de actividades productivas y comerciales que se consideren:",
+      "options": {
+        "a": "Rentables para el Estado",
+        "b": "Imprescindibles en caso de necesidad pública",
+        "c": "De interés para las Fuerzas Armadas",
+        "d": "Necesarias para la exportación",
+        "e": "Importantes para el turismo"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-193",
+      "question": "Según el art. 330 de la CPE, el Estado NO podrá asumir deudas públicas que superen:",
+      "options": {
+        "a": "El 50% del PIB",
+        "b": "El 30% del PIB",
+        "c": "No se establece un límite porcentual fijo sino que deben ajustarse a la capacidad de generar ingresos y a la planificación",
+        "d": "El 80% del PIB",
+        "e": "El 100% del PIB"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-194",
+      "question": "Según el art. 331 de la CPE, las asignaciones atenderán especialmente a la educación, la salud, la alimentación, la vivienda y al:",
+      "options": {
+        "a": "Comercio exterior",
+        "b": "Turismo",
+        "c": "Desarrollo productivo",
+        "d": "Sector militar",
+        "e": "Transporte aéreo"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-195",
+      "question": "Según el art. 333 de la CPE, las operaciones financieras de la Administración Pública se realizarán por el sistema:",
+      "options": {
+        "a": "De banca privada",
+        "b": "De banca comercial internacional",
+        "c": "Bancario y financiero del Estado regulado por ley",
+        "d": "De criptomonedas",
+        "e": "De trueque y compensación"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-196",
+      "question": "Según el art. 336 de la CPE, el Banco Central de Bolivia es una institución de derecho público con:",
+      "options": {
+        "a": "Dependencia total del Órgano Ejecutivo",
+        "b": "Personalidad jurídica y patrimonio propio",
+        "c": "Carácter privado",
+        "d": "Dependencia del Órgano Legislativo",
+        "e": "Subordinación al sistema financiero internacional"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-197",
+      "question": "Según el art. 337 de la CPE, el Banco Central de Bolivia tiene entre sus funciones:",
+      "options": {
+        "a": "Solo emitir moneda",
+        "b": "Determinar y ejecutar la política monetaria, así como administrar las reservas internacionales",
+        "c": "Solo conceder préstamos al sector privado",
+        "d": "Solo controlar la inflación",
+        "e": "Solo regular el tipo de cambio"
+      },
+      "answer": "b"
+    },
+    {
+      "id": "constitucion-198",
+      "question": "Según el art. 339 de la CPE, los ingresos del Estado se invertirán conforme con el plan general de desarrollo económico y social del país, el Presupuesto General del Estado y con la ley. ¿Qué prohíbe expresamente este artículo?",
+      "options": {
+        "a": "La inversión extranjera",
+        "b": "La inversión privada",
+        "c": "Toda forma de confiscación como pena o sanción",
+        "d": "La libre circulación de capitales",
+        "e": "El ahorro privado"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-199",
+      "question": "Según el art. 341 de la CPE, ¿está permitido al sector público hacer donaciones o subvenciones a entidades privadas con fines de lucro?",
+      "options": {
+        "a": "Sí, sin restricciones",
+        "b": "Sí, pero solo con autorización del Presidente",
+        "c": "No están permitidas; los recursos públicos no se destinarán a donaciones, subvenciones a entidades privadas con fines de lucro",
+        "d": "Sí, si lo aprueba la Asamblea Legislativa",
+        "e": "Sí, solo en caso de emergencia"
+      },
+      "answer": "c"
+    },
+    {
+      "id": "constitucion-200",
+      "question": "Según el art. 348 de la CPE, son recursos naturales:",
+      "options": {
+        "a": "Solo los minerales y los hidrocarburos",
+        "b": "Los minerales en todos sus estados, los hidrocarburos, el agua, el aire, el suelo y el subsuelo, los bosques, la biodiversidad, el espectro electromagnético y todos aquellos elementos y fuerzas físicas susceptibles de aprovechamiento",
+        "c": "Solo el agua y los hidrocarburos",
+        "d": "Solo los minerales y el agua",
+        "e": "Solo los bosques y la biodiversidad"
+      },
+      "answer": "b"
+    }
+  ]
+}
