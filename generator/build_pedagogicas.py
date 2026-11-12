@@ -544,3 +544,4 @@ def build_pedagogicas_banks():
 
 if __name__ == "__main__":
     build_pedagogicas_banks()
+
